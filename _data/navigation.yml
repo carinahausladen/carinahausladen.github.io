@@ -8,15 +8,16 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Harp Performances"
- #   url: /harpperformances/
+
+  - title: "CV"
+    url: https://drive.google.com/file/d/1AFhCD7u5kDoK3C5-l_2DUteHZW_dz4bI
+
+  - title: "Harp 🎶"
+    url: /harp/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
+
  # - title: "Guide"
  #   url: /markdown/

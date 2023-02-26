@@ -1,7 +1,7 @@
 ---
 title: "Charting the Type Space — The Case of Linear Public Good Experiments"
 collection: publications
-permalink: /publication/charting-space-type
+permalink:
 doi:
 date: 2022-07-04
 venue:

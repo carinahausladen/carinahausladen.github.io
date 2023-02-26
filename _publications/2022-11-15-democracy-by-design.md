@@ -1,7 +1,7 @@
 ---
 title: "Democracy by Design: Perspectives for Digitally Assisted, Participatory Upgrades of Society"
 collection: publications
-permalink: /publication/democracy-by-design
+permalink:
 doi:
 date: 2022-11-15
 venue:

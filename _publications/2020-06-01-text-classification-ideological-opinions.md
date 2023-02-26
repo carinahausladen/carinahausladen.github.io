@@ -1,7 +1,7 @@
 ---
 title: "Text classification of ideological direction in judicial opinions"
 collection: publications
-permalink: /publication/text-classification-ideological-opinions
+permalink:
 doi:
 date: 2020-06-01
 venue: 'International Review of Law and Economics'

@@ -1,7 +1,7 @@
 ---
 title: "Behavioral Economics-Enhanced: Machine Learning and Decision Making"
 collection: publications
-permalink: /publication/phd-thesis
+permalink:
 doi:
 date: 2020-10-05
 venue: PhD Thesis, University of Cologne

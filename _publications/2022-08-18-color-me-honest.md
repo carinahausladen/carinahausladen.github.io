@@ -1,7 +1,7 @@
 ---
 title: "Color Me Honest! Time Pressure and Dis(honest) Behavior"
 collection: publications
-permalink: /publication/color-me-honest
+permalink:
 doi:
 date: 2022-11-15
 venue:

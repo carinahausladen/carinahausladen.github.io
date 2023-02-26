@@ -3,16 +3,8 @@
 Forked from: https://github.com/academicpages/academicpages.github.io
 
 
-# Edit in a nutshell
+To build locally run:
 
-## Main page
-
-## Publications
-
-## Talks
-
-## Teaching
-
-## Harp Performances
-
-## CV
+```
+bundle exec jekyll serve
+```

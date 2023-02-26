@@ -1,12 +1,12 @@
 ---
-title: "Predicting (Dis-)Honesty: Leveraging Text Classification for Behavioral Experimental Research"
+title: "Predicting compliance: Leveraging chat data for supervised classification in experimental research"
 collection: publications
-permalink: /publication/predicting-(dis)hoensty
+permalink:
 doi:
 date: 2022-10-01
 venue:
-paperurl:
-citation: '<b>Hausladen, C. I.</b>, Fochmann, M., Mohr, P. (2022), Predicting (Dis-)Honesty: Leveraging Text Classification for Behavioral Experimental Research. Pre-registered in the AEA RCT Registry: https://www.socialscienceregistry.org/trials/5049'
+paperurl: 'https://ssrn.com/abstract_id=4371333'
+citation: '<b>Hausladen, C. I.</b>, Fochmann, M., Mohr, P. (2023), Predicting compliance: Leveraging chat data for supervised classification in experimental research. Available at SSRN: https://ssrn.com/abstract=4371333'
 preprint: true
 ---
 

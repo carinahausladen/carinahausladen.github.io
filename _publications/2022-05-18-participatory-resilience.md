@@ -1,7 +1,7 @@
 ---
 title: "Participatory resilience: Surviving, recovering and improving together"
 collection: publications
-permalink: /publication/participatory-resilience
+permalink:
 doi: '10.1016/j.scs.2022.103942'
 date: 2022-05-18
 venue: 'Sustainable Cities and Society'

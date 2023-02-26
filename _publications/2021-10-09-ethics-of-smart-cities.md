@@ -1,7 +1,7 @@
 ---
 title: "Ethics of smart cities: Towards value-sensitive design and co-evolving city life"
 collection: publications
-permalink: /publication/ethics-of-smart-cities
+permalink:
 doi: ''
 date: 2021-10-09
 venue: 'Sustainability'

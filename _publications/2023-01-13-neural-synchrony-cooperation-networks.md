@@ -1,13 +1,13 @@
 ---
-title: "The Impact of Neural Synchrony on Cooperation in Social Networks"
+title: "How Do Circadian Rhythms and Neural Synchrony Shape Networked Cooperation?"
 collection: publications
-permalink: /publication/neural-synchrony-cooperation-networks
-doi:
-date: 2023-01-13
+permalink:
+doi: '10.3389/fphy.2023.1125270'
+date: 2023-02-20
 venue:
-paperurl: 'https://ssrn.com/abstract=4323270'
-citation: 'Vasiliauskaite, V., <b>Hausladen, C. I.</b> (2023), The Impact of Neural Synchrony on Cooperation in Social Networks. Available at SSRN: https://ssrn.com/abstract=4323270'
-preprint: true
+paperurl: 'https://www.frontiersin.org/articles/10.3389/fphy.2023.1125270/abstract'
+citation: 'Vasiliauskaite, V., <b>Hausladen, C. I.</b> (2023), How Do Circadian Rhythms and Neural Synchrony Shape Networked Cooperation?. <i>Frontiers in Physics, 11</i>, 160.'
+preprint: false
 ---
 
 <u>Abstract:</u>

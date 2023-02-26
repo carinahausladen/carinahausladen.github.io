@@ -1,7 +1,7 @@
 ---
 title: "Socio-Economic Implications of the Digital Revolution"
 collection: publications
-permalink: /publication/socio-economic-implications-of-the-digital-revolution
+permalink:
 doi:
 date: 2022-01-01
 venue: 'Handbook of Complexity Economics'

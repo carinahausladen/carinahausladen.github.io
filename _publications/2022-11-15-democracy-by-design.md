@@ -3,7 +3,7 @@ title: "Democracy by Design: Perspectives for Digitally Assisted, Participatory 
 collection: publications
 permalink:
 doi:
-date: 2022-11-15
+date: 2022-11-16
 venue:
 paperurl: 'https://ssrn.com/abstract=4266038'
 citation: 'Helbing, D., Mahajan, S., Hänggli, R., Musso, A., <b>Hausladen, C. I.</b>, Carissimo, C., Carpentras, D., Stockinger, E., Argota Sánchez-Vaquerizo, J., Yang, J., Ballandies, M. C., Korecki, M., Dubey, R. K., Pournaras, E. (2022), Democracy by Design: Perspectives for Digitally Assisted, Participatory Upgrades of Society. Available at SSRN: https://ssrn.com/abstract=4266038'

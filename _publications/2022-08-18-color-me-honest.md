@@ -3,7 +3,7 @@ title: "Color Me Honest! Time Pressure and Dis(honest) Behavior"
 collection: publications
 permalink:
 doi:
-date: 2022-11-15
+date: 2022-11-14
 venue:
 paperurl: 'https://www.researchgate.net/profile/Carina-Hausladen/publication/362774901_Color_Me_Honest_Time_Pressure_and_Dishonest_Behavior/links/62fe3c08aa4b1206fabcf3dc/Color-Me-Honest-Time-Pressure-and-Dishonest-Behavior.pdf'
 doi:

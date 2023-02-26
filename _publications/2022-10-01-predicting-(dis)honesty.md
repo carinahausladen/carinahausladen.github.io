@@ -3,7 +3,7 @@ title: "Predicting compliance: Leveraging chat data for supervised classificatio
 collection: publications
 permalink:
 doi:
-date: 2022-10-01
+date: 2022-11-15
 venue:
 paperurl: 'https://ssrn.com/abstract_id=4371333'
 citation: '<b>Hausladen, C. I.</b>, Fochmann, M., Mohr, P. (2023), Predicting compliance: Leveraging chat data for supervised classification in experimental research. Available at SSRN: https://ssrn.com/abstract=4371333'

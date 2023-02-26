@@ -9,13 +9,10 @@ author_profile: true
 
 For the most updated version of my publications page, see my [Google Scholar profile](https://scholar.google.com/citations?user=hzSOg6MAAAAJ).
 
-## Peer-Reviewed
+## Ongoing Projects
 
-
-<ul>{% for post in site.publications reversed %}
-{% unless post.preprint %}
+<ul>{% for post in site.ongoing-projects reversed %}
   {% include archive-single-publication.html %}
-{% endunless %}
 {% endfor %}</ul>
 
 ## Preprints / Under Review
@@ -24,4 +21,12 @@ For the most updated version of my publications page, see my [Google Scholar pro
 {% if post.preprint %}
   {% include archive-single-publication.html %}
 {% endif %}
+{% endfor %}</ul>
+
+## Published
+
+<ul>{% for post in site.publications reversed %}
+{% unless post.preprint %}
+  {% include archive-single-publication.html %}
+{% endunless %}
 {% endfor %}</ul>

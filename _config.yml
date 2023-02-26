@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
+    output: false
+    permalink: /:collection/:path/
+  ongoing-projects:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  harp:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -218,6 +218,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _ongoing-projects
+  - scope:
+      path: ""
+      type: ongoing-projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""

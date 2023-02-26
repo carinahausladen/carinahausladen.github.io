@@ -34,8 +34,11 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
+        {% unless page.collection == 'ongoing-projects' %}
         {% if page.preprint %}
           <b>Preprint</b>
+
+          <b>Ongoing Research Project</b>
         {% else %}
           <p>{% if page.to_be_published %}To be published in {% else %} Published in {% endif %} <b>{{ page.venue }}</b>, {{ page.date | default: "1900-01-01" | date: "%Y" }} {% if page.paperurl %}[<a href="{{ page.paperurl }}">Link</a>]{% endif %} </p>
         {% endif %}
@@ -47,6 +50,7 @@ layout: default
         {% if page.citation %}
           <p><u>Cite as:</u> {{ page.citation }} </p>
         {% endif %}
+          {% endunless %}
     
         </header>
       {% endunless %}

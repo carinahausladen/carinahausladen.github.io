@@ -8,6 +8,6 @@ author_profile: true
 
 More information and videos coming soon!
 
-## Caltech Chamber Music Concert (January 23, 2023)
+## Caltech Chamber Music Concert (January 29, 2023)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MgXMCo1WjbU/0.jpg)](https://youtu.be/MgXMCo1WjbU?t=3260)
+<iframe src="http://www.youtube.com/embed/MgXMCo1WjbU?start=3260" frameborder="0" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 title: "Diurnal Patterns in the Spread of Misinformation"
 collection: ongoing-projects
-permalink: ongoing-projects/wip-diurnal-patterns
+permalink:
 date: 2023-02-26
 ---
 

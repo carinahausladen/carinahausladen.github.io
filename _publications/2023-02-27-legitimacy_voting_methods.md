@@ -1,5 +1,5 @@
 ---
-title: "How Do Circadian Rhythms and Neural Synchrony Shape Networked Cooperation?"
+title: "On the Legitimacy of Voting Methods"
 collection: publications
 permalink:
 doi:

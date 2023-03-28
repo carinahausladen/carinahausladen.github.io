@@ -12,6 +12,15 @@ More information and videos coming soon!
 
 {% include youtube.html id="MgXMCo1WjbU?start=3260" %}
 
+## Chanson dans la Nuit by Carlos Salzedo
+
+{% include youtube.html id="rjEqhX4uahU" %}
+
+## Nocturne by Mikhail Glinka
+
+{% include youtube.html id="M4XYpvQCV1U" %}
+
+
 ---
 
 ## Concert Archive

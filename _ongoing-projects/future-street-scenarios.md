@@ -1,5 +1,5 @@
 ---
-title: "Exploring citizen perception of future street scenarios: a virtual reality experiment"
+title: A virtual reality experiment to study citizen perception of future street scenarios
 collection: ongoing-projects
 permalink: ongoing-projects/future-street-scenarios
 date: 2023-02-26
@@ -13,4 +13,8 @@ Dirk Helbing (ETH Zurich)
 
 <u>Abstract:</u>
 
-Road infrastructures have limited capacity and need to be used more sustainably in the future, satisfying diverse and variable demands. We, therefore, explore the concept of adaptive infrastructures and flexible usage patterns of roads. For this purpose, we have created various scenarios in computer simulations, which have then been explored by experimental subjects in a three-dimensional virtual reality setting using virtual reality headsets. By analyzing feedback and physiological data collected from participants, we evaluate which scenarios are more or less promising for the future organization of urban mobility. Our study aims to provide insights that can help guide the development of more sustainable and adaptable road infrastructures for the future.
+The current allocation of street space is based on expected vehicular peak-hour flows. Flexible and adaptive use of this space can respond to changing needs. To evaluate the acceptance of flexible street layouts, several urban environments were designed and implemented in virtual reality. Participants explored these designs in immersive virtual reality in a 2x3 mixed factorial experiment, in which we analysed self-reported, behavioural and physiological responses from participants. Distinct communication strategies were varied between subjects.
+Participants' responses reveal a preference for familiar solutions. Unconventional street layouts are less preferred, perceived as unsafe and cause a measurably greater stress response. 
+Furthermore, information provision focusing on comparisons led participants to focus primarily on the drawbacks, instead of the advantages, of novel scenarios. 
+When being able to freely express thoughts and opinions, participants were focused more on the impact of the space on behaviour rather than the objective physical features themselves.
+Especially this last finding suggests that it is vital to develop new street scenarios in an inclusive and democratic way: the success of innovating urban spaces depends on how well the vast diversity of citizens' needs is considered and met.

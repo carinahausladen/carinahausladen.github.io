@@ -28,6 +28,16 @@ More information and videos coming soon!
 <p>
 <span style="color: #50C878; font-size: 1.2em;">Caltech Orchestra</span><br>
 <i>Glenn Price</i>, conductor <br>
+<b>Giuseppe Verdi</b>, La Forza Del Destino <br>
+<b>Carl Reinecke</b>, Concerto for Flute and Orchestra<br>
+<b>Pyotr Ilyich Tchaikovsky</b>, Symphony No. 6 in B minor<br>
+&#x1F4CD;Ramo Auditorium, 20/21 May 2023 <br>
+<a href="https://pva.caltech.edu/events/93916">press</a>
+</p>
+
+<p>
+<span style="color: #50C878; font-size: 1.2em;">Caltech Orchestra</span><br>
+<i>Glenn Price</i>, conductor <br>
 <b>Benjamin Britten</b>, The Young Person's Guide to the Orchestra <br>
 <b>Cécile Chaminade</b>, Concertino pour flûte, Op.107 <br>
 &#x1F4CD;Ramo Auditorium, 25/26 February 2023 <br>

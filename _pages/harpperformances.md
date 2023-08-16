@@ -6,7 +6,21 @@ author_profile: true
 
 ---
 
-More information and videos coming soon!
+## Upcoming Performances
+
+<p>
+<span style="color: #50C878; font-size: 1.2em;">Nota Bene Zurich</span><br>
+<b>Nikolai Rimksy-Korsakov</b>, Scheherazade <br>
+&#x1F4CD;Paraplegikerzentrum Nottwil, 24. Februar 2024 <br>
+&#x1F4CD;Stadtcasino Basel, 25. Februar 2024 <br>
+&#x1F4CD;Tonhalle Zürich, 3. März 2024 <br>
+</p>
+
+
+
+## Caltech Chamber Music Concert (June 2, 2023)
+
+{% include youtube.html id="cWoJOS2rZs4?start=283" %}
 
 ## Caltech Chamber Music Concert (January 29, 2023)
 
@@ -26,6 +40,21 @@ More information and videos coming soon!
 ## Concert Archive
 
 <p>
+<span style="color: #50C878; font-size: 1.2em;">Caltech Graduation Concert</span><br>
+<b>W. A. Mozart</b>, Cocerto for Flute and Haro <br>
+&#x1F4CD;Dabney Lounge, 15 June 2023 <br>
+<a  href="https://pva.caltech.edu/events/94679">press</a>
+</p>
+
+<p>
+<span style="color: #50C878; font-size: 1.2em;">Caltech Chamber Music Concert</span><br>
+<b>W. A. Mozart</b>, Cocerto for Flute and Haro <br>
+&#x1F4CD;Dabney Lounge, 2 June 2023 <br>
+<a  href="https://pva.caltech.edu/events/94572">press</a>
+</p>
+
+
+<p>
 <span style="color: #50C878; font-size: 1.2em;">Caltech Orchestra</span><br>
 <i>Glenn Price</i>, conductor <br>
 <b>Giuseppe Verdi</b>, La Forza Del Destino <br>
@@ -33,6 +62,7 @@ More information and videos coming soon!
 <b>Pyotr Ilyich Tchaikovsky</b>, Symphony No. 6 in B minor<br>
 &#x1F4CD;Ramo Auditorium, 20/21 May 2023 <br>
 <a href="https://pva.caltech.edu/events/93916">press</a>
+<a href="https://youtu.be/UOJ0Xybx9n8?t=337">video</a>
 </p>
 
 <p>

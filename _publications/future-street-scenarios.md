@@ -1,12 +1,12 @@
 ---
-title: A virtual reality experiment to study citizen perception of future street scenarios
+title: A Virtual Reality Experiment to Study Citizen Perception of Future Street Scenarios
 collection: publications
 permalink: ongoing-projects/future-street-scenarios
 doi:
 date: 2023-02-26
 venue:
 paperurl:
-citation:
+citation: Argota Sánchez-Vaquerizo, J., <b>Hausladen, C. I.</b> , Mahajan, S., Matter, M., Siebenmann, M., van Eggermond,  M. A. B., Helbing, D. (2023).
 preprint: true
 ---
 

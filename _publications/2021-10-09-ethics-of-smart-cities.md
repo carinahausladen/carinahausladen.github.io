@@ -1,12 +1,12 @@
 ---
-title: "Ethics of smart cities: Towards value-sensitive design and co-evolving city life"
+title: "Ethics of Smart Cities: Towards Value-Sensitive Design and Co-Evolving City Life"
 collection: publications
 permalink:
 doi: ''
 date: 2021-10-09
 venue: 'Sustainability'
 paperurl: 'https://www.mdpi.com/2071-1050/13/20/11162'
-citation: 'Helbing, D., Fanitabasi, F., Giannotti, F., Hänggli, R., <b>Hausladen, C. I.</b>, van den Hoven, J., Mahajan, S., Pedreschi, D., Pournaras, E. (2021). Ethics of Smart Cities: Towards Value-Sensitive Design and Co-Evolving City Life. <i>Sustainability</i>, <i>13</i>(20), 11162.'
+citation: 'Helbing, D., Fanitabasi, F., Giannotti, F., Hänggli, R., <b>Hausladen, C. I.</b>, van den Hoven, J., Mahajan, S., Pedreschi, D., Pournaras, E. (2021). Sustainability.'
 preprint: false
 ---
 

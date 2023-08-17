@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carina I. Hausladen"
 title_separator          : "-"
 name                     : &name "Carina I. Hausladen"
-description              : &description "postdoctoral scholar and harpist"
+description              : &description "postdoctoral scholar"
 url                      : https://carinahausladen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carinahausladen/carinahausladen.github.io"
@@ -77,12 +77,11 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
   name             : "Carina I. Hausladen"
   avatar           : "profile.png"
-  bio              : "Postdoc @Caltech | Harpist"
+  bio              : "Postdoc @Caltech"
   location         : "Pasadena, CA, USA"
   employer         :
   pubmed           :

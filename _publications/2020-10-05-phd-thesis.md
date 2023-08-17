@@ -6,7 +6,7 @@ doi:
 date: 2020-10-05
 venue: PhD Thesis, University of Cologne
 paperurl: 'https://kups.ub.uni-koeln.de/12231/1/6_PhD_Thesis_final.pdf'
-citation: '<b>Hausladen, C. I.</b> (2020), Behavioral Economics-Enhanced: Machine Learning and Decision Making. PhD Thesis, University of Cologne.'
+citation: '<b>Hausladen, C. I.</b> (2020).'
 preprint: false
 ---
 

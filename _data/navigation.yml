@@ -1,23 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "CV"
-    url: https://drive.google.com/file/d/1WQ0VD8CQQV18zKKS3XepSkGLq0PXJ3ak/view?usp=share_link
+ # - title: "CV"
+  #  url: https://drive.google.com/file/d/1WQ0VD8CQQV18zKKS3XepSkGLq0PXJ3ak/view?usp=share_link
 
-  - title: "Harp 🎶"
+  - title: "CV"
+    url: /cv/
+
+  - title: "Harp"
     url: /harp/
-        
+
+ # - title: "Talks"
+ #   url: /talks/
+
  # - title: "Blog Posts"
  #   url: /year-archive/
-    
 
  # - title: "Guide"
  #   url: /markdown/

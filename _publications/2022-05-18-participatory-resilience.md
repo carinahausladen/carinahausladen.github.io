@@ -1,13 +1,12 @@
 ---
-title: "Participatory resilience: Surviving, recovering and improving together"
+title: "Participatory Resilience: Surviving, Recovering and Improving Together"
 collection: publications
 permalink:
 doi: '10.1016/j.scs.2022.103942'
 date: 2022-05-18
 venue: 'Sustainable Cities and Society'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2210670722002633'
-citation: 'Mahajan, S., <b>Hausladen, C. I.</b>, Argota Sánchez-Vaquerizo, J., Korecki, M., Helbing, D. (2022). Participatory resilience: Surviving, recovering and improving together. <i>Sustainable Cities and Society</i>, <i>83</i>(3), 103942.'
-custom_excerpt: 'Mahajan, S.*, <b>Hausladen, C. I.*</b>, Argota Sánchez-Vaquerizo, J., Korecki, M., Helbing, D. (2022). Participatory resilience: Surviving, recovering and improving together. <i>Sustainable Cities and Society</i>, <i>83</i>(3), 103942. <br> (*: equal contribution)'
+citation: '<b>Hausladen, C. I.</b>, Mahajan, S., Argota Sánchez-Vaquerizo, J., Korecki, M., Helbing, D. (2022). Sustainable Cities and Society.'
 preprint: false
 ---
 

@@ -5,7 +5,7 @@ doi:
 date: 2023-07-26
 venue:
 paperurl: 'https://arxiv.org/abs/2307.11575'
-citation: 'Stockinger, E., R. Gallotti, and C. I. Hausladen. "Diurnal Patterns in the Spread of COVID-19 Misinformation on Twitter within Italy." arXiv preprint arXiv:2307.11575 (2023).'
+citation: 'Stockinger, E., R. Gallotti, and <b>Hausladen, C. I.</b> (2023). arXiv preprint.'
 preprint: true
 ---
 

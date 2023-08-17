@@ -5,8 +5,10 @@ title: "Harp"
 author_profile: true
 ---
 
-I embarked on my musical journey as a classical harpist at the age of 8. Under the expert mentorship of Claudia Forster for over a decade, I immersed myself deeply into the classical harp repertoire, both as a soloist and within ensembles. My dedication was recognized when I clinched the coveted first prize at the renowned "Jugend Musiziert" competition, not once but twice.
-I have showcased my prowess in lay and semi-professional orchestras across Germany, Switzerland, Italy, California, and Mauritius. My repertoire, rich in orchestral pieces, further spans chamber music, operas, and operettas.
+I embarked on my musical journey as a classical harpist at the age of 8. Under the expert mentorship of Claudia Forster for over a decade, I immersed myself deeply into the classical harp repertoire, both as a soloist and within ensembles. 
+My dedication was recognized when I clinched the first prize at the "Jugend Musiziert" competition twice.
+I have showcased my prowess in lay and semi-professional orchestras across Germany, Switzerland, Italy, California, and Mauritius. 
+My repertoire, rich in orchestral pieces, further spans chamber music, operas, and operettas.
 Though a lay musician, my skills have been recognized and celebrated on the revered stages of concert houses such as the Tonhalle Zürich, Tonhalle Düsseldorf, Deutsche Oper am Rhein, and Munich's Gasteig.
 ## Upcoming Performances
 

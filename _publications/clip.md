@@ -3,7 +3,7 @@ title: "Causal analysis of social bias towards faces in CLIP"
 collection: publications
 permalink:
 doi: 
-date: 2024
+date: 2024-01-11
 venue: 
 paperurl: 
 citation: 

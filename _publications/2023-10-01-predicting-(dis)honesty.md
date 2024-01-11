@@ -7,7 +7,7 @@ date: 2022-11-15
 venue:
 paperurl: 'https://ssrn.com/abstract_id=4371333'
 citation: '<b>Hausladen, C. I.</b>, Fochmann, M., Mohr, P. (2023). Available at SSRN.'
-preprint: true
+preprint: false
 ---
 
 <u>Abstract:</u>

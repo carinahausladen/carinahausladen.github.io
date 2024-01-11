@@ -8,7 +8,7 @@ venue:
 paperurl: 'https://www.researchgate.net/profile/Carina-Hausladen/publication/362774901_Color_Me_Honest_Time_Pressure_and_Dishonest_Behavior/links/62fe3c08aa4b1206fabcf3dc/Color-Me-Honest-Time-Pressure-and-Dishonest-Behavior.pdf'
 doi:
 citation: '<b>Hausladen, C. I.</b>, Nikolaychuk, O. (2022). Available on ResearchGate.'
-preprint: true
+preprint: false
 ---
 
 <u>Abstract:</u>

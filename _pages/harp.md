@@ -5,11 +5,8 @@ title: "Harp"
 author_profile: true
 ---
 
-I embarked on my musical journey as a classical harpist at the age of 8. Under the expert mentorship of Claudia Forster for over a decade, I immersed myself deeply into the classical harp repertoire, both as a soloist and within ensembles. 
-My dedication was recognized when I clinched the first prize at the "Jugend Musiziert" competition twice.
-I have showcased my prowess in lay and semi-professional orchestras across Germany, Switzerland, Italy, California, and Mauritius. 
-My repertoire, rich in orchestral pieces, further spans chamber music, operas, and operettas.
-Though a lay musician, my skills have been recognized and celebrated on the revered stages of concert houses such as the Tonhalle Zürich, Tonhalle Düsseldorf, Deutsche Oper am Rhein, and Munich's Gasteig.
+I started playing the classical harp at age 8, guided by Claudia Forster for more than ten years. Under her mentorship, I twice won first prize in the "Jugend Musiziert" competition. My experience includes performances with both lay and semi-professional orchestras in Germany, Switzerland, Italy, California, and Mauritius. As a lay musician, I have also played in notable concert houses, including Tonhalle Zürich, Tonhalle Düsseldorf, Deutsche Oper am Rhein, and Munich's Gasteig. My musical repertoire is primarily orchestral, but also includes chamber music, operas, and operettas.
+
 ## Upcoming Performances
 
 <p>
@@ -19,6 +16,13 @@ Though a lay musician, my skills have been recognized and celebrated on the reve
 &#x1F4CD;Paraplegikerzentrum Nottwil, 24. February 2024 <br>
 &#x1F4CD;Stadtcasino Basel, 25. February 2024 <br>
 &#x1F4CD;Tonhalle Zürich, 3. March 2024 <br>
+</p>
+
+<p>
+<span style="color: #000000; font-size: 1.2em;">Chamber Music</span><br>
+<b>Leland Albert Cossart</b>, Suite for 10 Winds and Harp, Op.19 <br>
+<b>Chou Wen-Chung</b>, Suite for Harp and Wind Quintet<br>
+&#x1F4CD;Evangelische Stiftskirche Diez, 06. April 2024 <br>
 </p>
 
 ## Listen 
@@ -108,6 +112,14 @@ Nocturne by Mikhail Glinka (Mai, 2017)
 
 <details>
   <summary>Concert Archive</summary>
+
+<p>
+<span style="color: #000000; font-size: 1.2em;">AKO Zurich</span><br>
+<i>Georg Köhler</i>, conductor <br>
+<b>Gustav Mahler</b>, Lieder eines fahrenden Gesellen <br>
+&#x1F4CD;Menuhin-Forum, Bern, 08 November 2023 <br>
+&#x1F4CD;Concert Hall ZhdK, Zurich, 10 November 2023 <br>
+</p>
 
 <p>
 <span style="color: #000000; font-size: 1.2em;">Caltech Graduation Concert</span><br>

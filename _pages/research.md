@@ -7,11 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Job Market Paper
-
-<ul>{% for post in site.ongoing-projects reversed %}
-  {% include archive-single-publication.html %}
-{% endfor %}</ul>
 
 ## Under Review
 

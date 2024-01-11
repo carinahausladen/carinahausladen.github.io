@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 ### Postdoc
-I am currently a Postdoc at [Caltech](https://www.hss.caltech.edu/people/carina-i-hausladen) and will be on the 2023/2024 academic job market.
+I am currently a Postdoc at [ETH Zurich](https://gess.ethz.ch/en/the-department/people/person-detail.MjU3Nzg0.TGlzdC81MTIsNjE4MTIwODY=.html).
 
 ### Education
 
@@ -25,12 +25,8 @@ Machine Learning
 Natural Language Processing   
 Responsible AI   
 Behavioral Economics   
-Experimental Economics   
-
-### Job Market Paper
-[Investigating bias in text-to-image models: A theory-driven approach to study the organizational structure of stereotypes in CLIP](ongoing-projects/clip)
-
+Experimental Economics
 
 ### Contact
 
-[carinah@caltech.edu](mailto:carinah@caltech.edu)
+[carinah@ethz.ch](mailto:carinah@caltech.edu)

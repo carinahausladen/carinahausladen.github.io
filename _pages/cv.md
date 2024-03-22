@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/Hausladen-CV.pdf" width="100%" height="500px"></iframe>
+<iframe src="/files/CV.pdf" width="100%" height="500px"></iframe>
 

@@ -11,6 +11,7 @@ redirect_from:
 
 ### Postdoc
 I am currently a Postdoc at [ETH Zurich](https://gess.ethz.ch/en/the-department/people/person-detail.MjU3Nzg0.TGlzdC81MTIsNjE4MTIwODY=.html).
+In 2022 and 2023 I worked with Colin Camerer at Caltech (as Postdoc).
 
 ### Education
 

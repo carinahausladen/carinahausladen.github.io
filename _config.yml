@@ -93,6 +93,12 @@ permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-compress-images
+
+imageoptim:
+  pngout: true
+  svgo: false
+  verbose: true
 
 paginate: 9
 paginate_path: "/page/:num"

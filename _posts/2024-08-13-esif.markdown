@@ -1,0 +1,36 @@
+---
+layout: post
+title:  presented at ESIF Economics and AI+ML Meeting
+description: Cornell University, Ithaca, NY
+date:   2024-08-13 12:00:00
+image:  '/images/cornell1.png'
+tags:   [conference]
+---
+
+I had the pleasure of presenting our paper, "Social Perception of Faces in a Vision-Language Model," at the 2024 ESIF Economics and AI+ML Meeting held at Cornell University in Ithaca, NY.
+
+The conference was incredibly engaging, with thought-provoking keynotes and a diverse lineup of presentations. 
+I was fortunate to meet so many inspiring researchers, some of whom generously took the time to offer valuable advice for my upcoming job market applications.
+
+A highlight of the trip was reconnecting with a friend I had spent a semester abroad with at Stanford back in 2017. 
+
+
+Cornell is such an inspiring place!
+
+
+
+![lake view]({{site.baseurl}}/images/cornell3.png#wide)
+*Morning view of Cayuga Lake from Cornell's campus. 
+One of the unexpected pleasures of jet lag from Europe: peaceful dawn walks while campus sleeps*
+
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 20px;">
+        <img src="{{site.baseurl}}/images/cornell2.png" alt="library" style="width: 300px;">
+        <p style="text-align: center; font-size: 0.65em; margin-top: 5px;">Inside the A. D. White Library at Cornell University.</p>
+    </div>
+    <div style="flex: 2;">
+        <p><a href="https://editorialexpress.com/conference/NAAIML2024/program/NAAIML2024.html">Conference Program</a></p>
+        <p>Paper presented: Social perception of faces in a vision-language model. CI Hausladen, M Knott, CF Camerer, P Perona. arXiv preprint arXiv:2408.14435. 2024</p>
+    </div>
+</div>

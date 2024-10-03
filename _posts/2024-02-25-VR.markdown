@@ -1,0 +1,36 @@
+---
+layout: post
+title:  paper published in Scientific Reports
+description: A virtual reality experiment to study pedestrian perception of future street scenarios
+date:   2024-02-25 15:01:35 +0300
+image:  '/images/VR4.jpg'
+tags:   [paper]
+---
+
+
+
+The current allocation of street space is based on expected vehicular peak-hour flows. 
+Flexible and adaptive use of this space can respond to changing needs. 
+
+![Snapshots]({{site.baseurl}}/images/VR3.jpg#wide)
+*Participants crossed a street wearing VR headsets in three different design scenarios: conventional traffic light controlled pedestrian crossing (\emph{status-quo}, left), dynamic pavement for right-of-way allocation (\emph{inLED}, centre), and flat street (\emph{curbless}, right). Additionally, each traffic scenario was presented for two different times of the day with distinctive lighting, use, and traffic conditions: morning rush hour (top row) and evening traffic (bottom row).*
+
+To evaluate the acceptability of flexible street layouts, several urban environments were designed and implemented in virtual reality. 
+Participants explored these designs in immersive virtual reality in a  mixed factorial experiment, in which we analysed self-reported, behavioural and physiological responses from participants. 
+Distinct communication strategies were varied between subjects. 
+Participants’ responses reveal a preference for familiar solutions. 
+Unconventional street layouts are less preferred, perceived as unsafe and cause a measurably greater stress response. 
+
+> Information provision focusing on comparisons lead participants to focus primarily on the drawbacks, instead of the advantages of novel scenarios. 
+
+When being able to freely express thoughts and opinions, participants are focused more on the impact of space design on behaviour rather than the objective physical features themselves. 
+Especially, this last finding suggests that it is vital to develop new street scenarios in an inclusive and democratic way: the success of innovating urban spaces depends on how well the vast diversity of citizens’ needs is considered and met.
+
+![Snapshots]({{site.baseurl}}/images/VR2.jpg)
+*Behavioural responses*
+
+### Citation
+
+Link to our paper: [Scientific Reports](https://www.nature.com/articles/s41598-024-55073-x)
+
+Argota Sánchez-Vaquerizo J, Hausladen CI, Mahajan S, Matter M, Siebenmann M, van Eggermond MA, Helbing D. A virtual reality experiment to study pedestrian perception of future street scenarios. Scientific reports. 2024 Feb 25;14(1):4571.

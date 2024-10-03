@@ -1,0 +1,113 @@
+#-------------------------------
+# Site Settings
+title: Carina Hausladen
+logo: '/images/signature.png'
+description: Personal site of Carina Hausladen
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Carina Hausladen
+  author__bio: I am a postdoctoral researcher at ETH Zürich, working with Dirk Helbing. My research blends computational social science and economics. Previously, I worked with Colin F Camerer at Caltech. I earned my PhD at the University of Cologne and the Max Planck Institute for Research on Collective Goods, supervised by Christoph Engel and Martin Fochmann. contact–carinah@ethz.ch
+  author__avatar: '/images/me.JPG'
+
+social:
+  - {icon: "ion-logo-twitter", link: "https://x.com/CarinaHausladen"}
+  - {icon: "ion-logo-google", link: "https://scholar.google.com/citations?user=hzSOg6MAAAAJ&hl=en"}
+  - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/carina-hausladen/"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Carina Hausladen
+  hero__description: I am a postdoctoral researcher at ETH Zürich, working with Dirk Helbing. My research blends computational social science and economics. Previously, I worked with Colin F Camerer at Caltech. I earned my PhD at the University of Cologne and the Max Planck Institute for Research on Collective Goods, supervised by Christoph Engel and Martin Fochmann. contact–carinah@ethz.ch
+  hero__image: '/images/me.JPG'
+
+
+#-------------------------------
+# Newsletter
+mailchimp: #enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Subscribe here
+mailchimp__button__text: Get a new tip
+
+
+#-------------------------------
+# Gallery Footer Section
+gallery:
+  gallery__title: Gallery
+  gallery__columns: 3
+  gallery__images:
+    - alt: 'Rest'
+      url: '/images/harp1.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/poster2.JPG'
+    - alt: 'Hobby'
+      url: '/images/harp3.jpg'
+    - alt: 'Notes'
+      url: '/images/poster.JPG'
+    - alt: 'Rest'
+      url: '/images/harp5.jpg'
+    - alt: 'Hobby'
+      url: '/images/harp6.png'
+    - alt: 'Fashion'
+      url: '/images/talk1.jpg'
+    - alt: 'Notes'
+      url: '/images/talk2.jpg'
+    - alt: 'Rest'
+      url: '/images/talk3.jpg'
+
+
+#-------------------------------
+# Contact Settings
+#contact:
+#  email: carinah@ethz.ch # Add your email for contant form
+#  description: I am happy to discuss research and potential collaborations. Please leave a message below (or at carinah@ethz.ch), and I will get back to you as soon as possible. # Add a description of your form
+
+# NOTE
+# Menca theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
+
+
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed

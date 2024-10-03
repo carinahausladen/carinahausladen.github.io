@@ -1,0 +1,29 @@
+---
+layout: post
+title:  presented at the conference of experimental sociology
+description: ACES 2024
+date:   2024-08-28 15:01:35 +0300
+image:  '/images/torino1.png'
+tags:   [conference]
+---
+
+I presented our paper, "Perceived warmth and competence predict callback rates in meta-analyzed North American labor market experiments," at the 6th Annual Conference of Experimental Sociology in Turin, Italy.
+
+The conference took place at the University of Turin, one of the oldest universities in Europe.
+
+![palazzo]({{site.baseurl}}/images/torino4.png#wide)
+*Palazzo Carignano: Once the seat of the first Italian Parliament, it remains one of the city's most iconic landmarks.*
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 20px;">
+        <img src="{{site.baseurl}}/images/torino2.png" alt="harp" style="width: 300px;">
+        <p style="text-align: center; font-size: 0.65em; margin-top: 5px;">I love discovering harps during my travels—this one was a delightful find in my hotel in Turin.</p>
+    </div>
+    <div style="flex: 2;">
+        <p><a href="https://drive.google.com/file/d/1K-br2HQ5LEUAfnR0NjLzGuhOcEmO8feV/view">Conference program</a></p>
+        <p>Paper presented: Perceived warmth and competence predict callback rates in meta-analyzed North American labor market experiments. M Gallo*, CI Hausladen*, M Hsu, AC Jenkins, V Ona, CF Camerer. PloS one 19 (7), e0304723. 2024.</p>
+    </div>
+</div>
+
+
+

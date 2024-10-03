@@ -1,0 +1,38 @@
+---
+layout: post
+title:  presented at EGOV-CeDEM-ePart
+description: VoteLab—A Modular and Adaptive Experimentation Platform for Online Collective Decision Making
+date:   2024-09-05 18:05:55 +0300
+image:  '/images/leuven3.png'
+tags:   [conference]
+---
+
+
+I recently had the opportunity to present one of our papers at the EGOV-CeDEM-ePart conference: 
+A Modular and Adaptive Experimentation Platform for Online Collective Decision Making. 
+
+It was a great experience to share our research and get valuable feedback from experts in the field.
+
+The conference itself was extremely stimulating, bringing together many practitioners and researchers working at the forefront of governance. 
+
+![Arenbergkastel]({{site.baseurl}}/images/leuven1.png)
+*Arenberg Castle in Leuven—originally built in the 16th century, now part of KU Leuven's campus. 
+As I passed by, I heard beautiful piano music. I entered and found a piano in the middle of the hall, with someone casually playing. 
+It was such a beautiful and unexpected moment.*
+
+
+This was also my first visit to Belgium, and specifically to Leuven. 
+What a fascinating city—with its beautiful architecture, rich history, and lively atmosphere.
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 20px;">
+        <img src="{{site.baseurl}}/images/leuven2.png" alt="Town Hall" style="width: 300px;">
+        <p style="text-align: center; font-size: 0.65em; margin-top: 5px;">Historic Leuven Town Hall—an architectural marvel from the 15th century. Surprisingly, it feels much smaller on the inside than its exterior suggests.</p>
+    </div>
+    <div style="flex: 2;">
+        <p>Paper presented: Votelab: a modular and adaptive experimentation platform for online collective decision making. Kunz R, Banaie F, Sharma A, Hausladen CI, Helbing D, Pournaras E. arXiv preprint arXiv:2307.10903. 2023 Jul 20.</p>
+        <p><a href="https://arxiv.org/pdf/2307.10903">Paper link</a></p>
+        <p><a href="https://dgsociety.org/wp-content/uploads/2024/08/Programme-2024_0822.pdf">Conference program</a></p>
+    </div>
+</div>
+

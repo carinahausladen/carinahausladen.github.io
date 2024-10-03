@@ -1,0 +1,29 @@
+---
+layout: post
+title:  paper published in Plos One
+description: Social perception predict labor market outcomes
+date:   2024-07-10 12:00:00 +0300
+image:  '/images/warmth.png'
+tags:   [paper]
+---
+Extensive literature probes labor market discrimination through correspondence studies in which researchers send pairs of resumes to employers, which are closely matched except for social signals such as gender or ethnicity. 
+
+### Stereotype Content Model
+
+Upon perceiving these signals, individuals quickly activate associated stereotypes. The Stereotype Content Model (SCM; Fiske 2002) categorizes these stereotypes into two dimensions: warmth and competence. 
+Our research integrates findings from correspondence studies with theories of social psychology, asking: Can discrimination between social groups, measured through employer callback disparities, be predicted by warmth and competence perceptions of social signals? 
+
+> We collect callback rates from 21 published correspondence studies, varying for 592 social signals. 
+
+On those social signals, we collected warmth and competence perceptions from an independent group of online raters. 
+We found that social perception predicts callback disparities for studies varying race and gender, which are indirectly signaled by names on these resumes. 
+Yet, for studies adjusting other categories like sexuality and disability, the influence of social perception on callbacks is inconsistent. 
+
+![House]({{site.baseurl}}/images/warmth2.png#wide)
+
+For instance, a more favorable perception of signals like parenthood does not consistently lead to increased callbacks, underscoring the necessity for further research. 
+Our research offers pivotal strategies to address labor market discrimination in practice. 
+
+### Predictive identification of bias
+Leveraging the warmth and competence framework allows for the predictive identification of bias against specific groups without extensive correspondence studies. By distilling hiring discrimination into these two dimensions, we not only facilitate the development of decision support systems for hiring managers but also equip computer scientists with a foundational framework for debiasing Large Language Models and other methods that are increasingly employed in hiring processes.
+

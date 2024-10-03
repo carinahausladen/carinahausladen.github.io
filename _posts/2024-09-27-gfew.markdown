@@ -1,0 +1,30 @@
+---
+layout: post
+title:  presented at the GfeW annual meeting
+description: back in Cologne, my alma mater
+date:   2024-09-11 15:01:35 +0300
+image:  '/images/cologne2.png'
+tags:   [conference]
+---
+
+It was wonderful to return to Cologne for the annual conference of the [Gesellschaft für experimentelle Wirtschaftsforschung](https://gfew.de/).  
+This visit was especially meaningful to me, as the University of Cologne is my alma mater—I completed my PhD here between 2017 and 2020. 
+Being back on campus brought back many wonderful memories.
+
+The GfeW also holds a special place in my heart. 
+Back in 2013, I received the Heinz Sauermann Prize for my Master’s thesis, which gave me the opportunity to conduct an experiment that sparked my passion for Behavioral Economics. 
+Since then, I've been a member of the GfEW community, but this year was actually my first time attending the annual conference. 
+
+![Cologne]({{site.baseurl}}/images/cologne3.jpg)
+*Golden hour back in October 2019*
+
+
+A highlight of the conference was reconnecting with old friends from my Master’s and PhD days.
+I’ve included some photos below—though not all are from last week, they do reflect some of the moments that made this return to Cologne so special.
+
+![Cologne]({{site.baseurl}}/images/cologne4.jpg#wide)
+*During a summer run back in June 2018*
+
+[Conference programme](https://gfew.de/conference/tagungen/28/Program_GfeW_2024_EN.pdf)
+
+[Presentation slides](https://slides.com/carinah/carinahausladen/scroll?chrome=hidden)

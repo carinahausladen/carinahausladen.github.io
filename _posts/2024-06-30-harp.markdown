@@ -1,0 +1,43 @@
+---
+layout: post
+title:  My first performance as solist
+description: Debussy's danses sacrée et profane 
+date:   2024-06-30 15:01:35 +0300
+image:  '/images/harp2.jpg'
+tags:   [harp]
+---
+
+
+After years of performing with various orchestras and ensembles, 
+I had the honor of stepping into the spotlight as a soloist with a full orchestra for the very first time.
+
+I performed Debussy's Danses sacrée et profane, a work that holds a special place in every professional harpist's repertoire. 
+Originally composed for chromatic harp and orchestra, it was later adapted for the double-action pedal harp—yes, harps do have pedals! 
+Though the piece is just 12 minutes long, navigating the pedal work was exhilarating.
+
+![harp]({{site.baseurl}}/images/harp1.jpg)
+*Navigating the stage during multiple rounds of applause is an art in itself. 
+Here, you can see me glancing around, searching for help on what to do next.*
+
+This experience was a dream come true. 
+I’m deeply grateful to [Nota Bene](https://www.nota-bene.ch) for giving me this opportunity, and to Maestro [Jascha Von der Goltz](https://www.nota-bene.ch/orchester/dirigent.php) for his guidance. 
+Working with a conductor who supports and encourages genuine artistic expression made all the difference.
+
+
+![harp]({{site.baseurl}}/images/harp5.jpg)
+*The Danses were composed for harp and string orchestra. I have performed with Nota Bene on many occasions before, and knowing the orchestra so well—along with their warmth and support—made the entire process incredibly enjoyable.*
+
+
+A special shout-out to my talented colleague and friend, [Joshua C. Yang](https://scholar.google.ch/citations?user=4ryiNe8AAAAJ&hl=en), who captured the magic of this moment. 
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 20px;">
+        <img src="{{ site.baseurl }}/images/harp.jpg" alt="Town Hall" style="width: 300px;">
+        <p style="text-align: center; font-size: 0.65em; margin-top: 5px;">
+            This is how we brought home all the beautiful flowers. Luckily, the harp fits into the tram!
+        </p>
+    </div>
+    <div style="flex: 2;">
+        <p>Spotify <a href="https://open.spotify.com/album/5RyjSjknz08aNbxfb8HDb8" target="_blank">link</a> to a recording (not mine) of the piece.</p>
+    </div>
+</div>

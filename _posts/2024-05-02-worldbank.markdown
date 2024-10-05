@@ -13,8 +13,8 @@ The conference featured a diverse range of speakers from both academia and indus
 
 After the conference, I had the chance to explore Washington, D.C., for the first time, and I was truly blown away by the wealth of museums and governmental monuments. 
 
-![capitolinsinde]({{site.baseurl}}/images/washington2.png)
-*A guided tour of the Capitol, the heart of democracy, was a particular highlight. Learning about the evolution of democracy in the U.S. was fascinating, and I highly recommend everyone take advantage of the free public tours available.*
+![capitol]({{site.baseurl}}/images/washington2.png)
+*The Capitol was my personal highlight. Learning about the evolution of democracy in the U.S. was fascinating. I highly recommend everyone take advantage of the free public tours available.*
 
 
 <div style="display: flex; align-items: center;">

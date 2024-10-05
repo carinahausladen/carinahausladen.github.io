@@ -24,7 +24,7 @@ Most strikingly, we find a strong pattern of bias concerning the faces of Black 
 ![wide]({{site.baseurl}}/images/CLIP3.png#wide)
 
 Third, facial expression impacts social perception more than age and lighting as much as age. 
-![Comparison]({{site.baseurl}}/images/CLIP2.png)
+![comparison]({{site.baseurl}}/images/CLIP2.png)
 *Protected attributes (orange) and non-protected ones (purple) cause comparable variation in the CLIP embedding. Variation is quantified using a bootstrapping method, calculating the absolute value of $\Delta$ cosine similarity differences between two images compared to each of the valenced text prompts used in our study. The two randomly selected images are distinct for exactly one attribute. For instance, to generate the box plot for ``smiling'', two images of the same pseudo-identity with varying smiling values are compared. The gray box plot (seed) illustrates variation when pseudo-identities are changed while other attributes are maintained constant.
 Boxes are arranged by median values (lines), and means are indicated by triangles.*
 

@@ -20,7 +20,7 @@ Our methodology involved using a dataset from a human voting experiment to estab
 We discovered that varying the persona can reduce some of these biases and enhance alignment with human choices. 
 While the Chain-of-Thought approach did not improve prediction accuracy, it has potential for AI explainability in the voting process. 
 
-![Tree]({{site.baseurl}}/images/LLM_voting/prompt.png)
+![tree]({{site.baseurl}}/images/LLM_voting/prompt.png)
 *Our system prompt*
 
 We also identified a trade-off between preference diversity and alignment accuracy in LLMs, influenced by different temperature settings. 

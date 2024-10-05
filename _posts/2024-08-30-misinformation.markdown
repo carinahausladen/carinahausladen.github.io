@@ -19,7 +19,7 @@ Evening types exhibit a significantly higher inclination towards spreading poten
 This knowledge can become crucial for developing targeted interventions and strategies that mitigate misinformation spread by addressing vulnerable periods and user groups more susceptible to manipulation.
 
 
-![Bird]({{site.baseurl}}/images/misinformation2.png)
+![bird]({{site.baseurl}}/images/misinformation2.png)
 *Factors influencing the spread of mis- and disinformation, containing daylight, time of day, human diurnal activity, (pseudo) chronotype, and the COVID-19 pandemic. We use the term (pseudo) chronotype to refer to user archetypes based on diurnal tweeting activity.*
 
 
@@ -30,7 +30,7 @@ We then use k-means clustering to group the average posting activity curves.
 The analysis reveals the presence of three distinct clusters with unique patterns of posting activity. 
 
 
-![Smoothed]({{site.baseurl}}/images/misinformation3.png)
+![smoothed]({{site.baseurl}}/images/misinformation3.png)
 *Smoothed diurnal activity ((a) and (b), see “Diurnal cluster activity”) as well as the ratio of potentially disinformative content posted per cluster ((c) and (d), see “Content type ratios”). For each cluster, the one (or two) highest peaks of activity and ratio are annotated with their time of occurrence. The shaded area in panel (b) stresses the closeness of peak activity after inferred awakening across the clusters.*
 
 > Evening types spread most potentially disinformative content, infrequent posters the least
@@ -44,7 +44,7 @@ While the total number of posts per user is positively correlated with an increa
 This correlation is significant for all clusters except for evening types, and significant for all clusters when considering smoothed content type ratios only.
 
 
-![Clocks]({{site.baseurl}}/images/misinformation4.png)
+![clocks]({{site.baseurl}}/images/misinformation4.png)
 *Each panel displays per cluster: the cumulative number of posts with known reliability classification throughout the day (coloured areas), the cumulative ratios of potentially disinformative content types (red lines), the user’s 8 least active hours (inferred prolonged wakefulness, grey inner arc), and the times with the highest quartile of potentially disinformative posts (red outer arcs). The axis scales are shared between panels.*
 
 

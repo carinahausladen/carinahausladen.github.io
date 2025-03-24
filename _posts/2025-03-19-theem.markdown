@@ -1,0 +1,41 @@
+---
+layout: post
+title:  presented at THEEM 2025
+description: theem 2025
+date:   2025-03-19
+image:  '/images/theem2.png'
+tags:   [conference]
+---
+
+
+I am happy to have been invited to this year’s THEEM 2025. It was wonderful to reconnect with so many familiar faces. 
+I had the chance to present my new paper, titled 
+
+*Investigating Latent Intentions via Inverse Reinforcement Learning in Repeated Public Goods Games*. 
+
+This project analyzes over 50,000 decisions from repeated public goods games to better understand the heterogeneity of human cooperation. Instead of relying on predefined behavioral types, we apply clustering methods—most notably **dynamic time warping (DTW)**—to group participants by their temporal contribution patterns.
+
+DTW-based clustering reveals a previously unclassified type—**threshold switchers**—who contribute consistently at first, then sharply reduce cooperation at individualized points. This pattern is obscured by Euclidean distance measures and traditional mixture models.
+
+To interpret these clusters, we use **Hierarchical Inverse Q-Learning (HIQL)** to estimate latent reward functions from observed actions and states. This method provides probabilistic inferences about intention, offering a unifying explanation for behavioral types—including those previously labeled as erratic or "unexplained."
+
+<figure>
+  <img src="/images/data.png" alt="Heatmap of participant contributions across rounds">
+  <figcaption>
+    <strong>Figure:</strong> Visualization of the raw data. The y-axis represents participant identifiers (UIDs), and the x-axis tracks rounds played. Color intensity reflects normalized contribution size (0–1). Each subplot pair shows (left) individual contributions and (right) the average contribution of group members from the previous round. UIDs are sorted by average contribution. Game lengths vary across studies (7, 10, 20, or 30 rounds), and one notable 7-round game included 100 participants, resulting in unusually uniform experience patterns.
+  </figcaption>
+</figure>
+
+
+### Core contributions:
+- Data-driven clustering of ~3,000 participants across 10 studies
+- Identification of novel behavioral patterns missed by standard models
+- Estimation of discrete reward dynamics using inverse reinforcement learning
+- Evidence that longer time horizons increase intention volatility, with implications for policy design in cooperative settings
+
+<a href="/images/your-paper.pdf" target="_blank">Read the full paper (PDF)</a>
+
+
+
+- [Conference programme](https://www.twi-kreuzlingen.ch/events/theem/)
+- [Presentation slides](https://slides.com/carinah/theem-2025)

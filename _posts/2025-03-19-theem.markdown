@@ -1,0 +1,21 @@
+---
+layout: post
+title:  presented at THEEM 2025
+description: theem 2025
+date:   2025-03-19
+image:  '/images/theem2.png'
+tags:   [conference]
+---
+
+
+I am happy to have been invited to this year’s THEEM 2025. It was wonderful to reconnect with so many familiar faces. 
+I had the chance to present my new paper, titled 
+
+*Investigating Latent Intentions via Inverse Reinforcement Learning in Repeated Public Goods Games*. 
+
+There’s no preprint available yet, but I’ll share an update once it’s out. 
+In the meantime, feel free to reach out if you’re interested.
+
+
+- [Conference programme](https://www.twi-kreuzlingen.ch/events/theem/)
+- [Presentation slides](https://slides.com/carinah/theem-2025)

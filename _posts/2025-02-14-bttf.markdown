@@ -1,0 +1,45 @@
+---
+layout: post
+title:  presented at the Back to the Future Conference
+description: Back to the Future!
+date:   2025-02-14
+image:  '/images/bttf1.jpeg'
+tags:   [conference]
+---
+
+
+We at the Chair of Computational Social Science at ETH recently hosted a conference: [Back to the Future](https://www.backtothefuture.ch/talks/).
+
+It was such a stimulating conference with contributions from several fields. It was a pleasure to connect with so many experts.
+
+At the conference, I presented findings from a randomized controlled trial in which we asked citizens to vote on several topics using four different voting methods. After casting their votes, participants were asked to rate how legitimate they perceived each voting method to be.
+
+Our findings reveal a clear preference among voters for systems that offer greater flexibility in expressing their choices. Traditional majority voting—which restricts voters to a single option—is seen as the least legitimate method. In contrast, range voting, which allows for a more nuanced expression of preferences, is rated as the most legitimate.
+
+Our study suggests that the ability to express nuanced preferences is strongly linked to perceptions of legitimacy. Yet, range voting is seldom implemented in practice. Often, voters are asked to simply select one option or indicate approval/disapproval, whether in social media polls or election support tools that cluster opinions or match voters with a party.
+
+Such binary approaches can lead to polarization rather than fostering compromise. Range voting, by contrast, encourages us to consider alternatives that seek common ground.
+
+Legitimacy is a cornerstone of our democracy, and one way to strengthen it is by carefully choosing the method of vote elicitation.
+
+If you are interested in our results, you can find our publication here: [Nature Human Behaviour](https://www.nature.com/articles/s41599-024-03056-8)
+
+I also contributed to a newspaper article: [The Art of Legitimate Decision Making](https://www.defacto.expert/2024/02/23/the-art-of-legitimate-decision-making/?lang=en)
+
+And collaborated with Felix Lill on an interview for Spektrum der Wissenschaft about our study: [Das Wahlverfahren bestimmt über unser Vertrauen in den Wahlausgang](https://www.spektrum.de/news/das-wahlverfahren-bestimmt-ueber-unser-vertrauen-in-den-wahlausgang/2230202)
+
+I had the pleasure of working alongside many talented colleagues on related topics. Their contributions at the Back to the Future conference were extremely insightful. Among them are my coauthors Dirk Helbing, Joshua C. Yang, Evangelos Pournaras, and Regula Hänggli.
+
+![Cologne]({{site.baseurl}}/images/bttf3.jpg)
+*On ETH rooftop terrace with beautiful view over Zurich. Dirk Helbing (on the left), César Hidalgo, me, and Joshua C. Yang. Photo taken by our brilliant student assistant Alexander Eggerth (if I remember correctly).*
+
+<!-- Gallery of smaller images in a row -->
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="{{site.baseurl}}/images/bttf2.jpeg" alt="Conference moment 1" style="width: 24%;">
+    <img src="{{site.baseurl}}/images/bttf4.jpg" alt="Conference moment 2" style="width: 24%;">
+    <img src="{{site.baseurl}}/images/bttf5.jpg" alt="Conference moment 3" style="width: 24%;">
+    <img src="{{site.baseurl}}/images/bttf6.jpg" alt="Conference moment 3" style="width: 24%;">
+</div>
+
+- [Conference programme](https://www.backtothefuture.ch)
+- [Presentation slides](https://slides.com/carinah/back-to-the-future-2025?token=ZL5osykQ)

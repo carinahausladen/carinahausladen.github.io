@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My first performance as solist
+title:  Performing Debussy as a solist
 description: Debussy's danses sacrée et profane 
 date:   2024-06-30 15:01:35 +0300
 image:  '/images/harp2.jpg'
@@ -38,6 +38,6 @@ A special shout-out to my talented colleague and friend, [Joshua C. Yang](https:
         </p>
     </div>
     <div style="flex: 2;">
-        <p>Spotify <a href="https://open.spotify.com/album/5RyjSjknz08aNbxfb8HDb8" target="_blank">link</a> to a recording (not mine) of the piece.</p>
+        <p>Link <a href="https://drive.google.com/file/d/1Hpp9GI_3C6nO8_S3gnXQ7w9CBXEaXPF7/view?usp=sharing" target="_blank">to the recording</a> of my performance.</p>
     </div>
 </div>

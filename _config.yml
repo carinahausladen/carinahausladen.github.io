@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Carina Hausladen
-  author__bio: I am a postdoctoral researcher at ETH Zürich, working with Dirk Helbing. My research blends computational social science and economics. Previously, I worked with Colin F Camerer at Caltech. I earned my PhD at the University of Cologne and the Max Planck Institute for Research on Collective Goods, supervised by Christoph Engel and Martin Fochmann. contact–carinah@ethz.ch
+  author__bio: I am a senior scientist at ETH Zürich, working with Dirk Helbing. My research blends computational social science and economics. Previously, I worked with Colin F Camerer at Caltech. I earned my PhD at the University of Cologne and the Max Planck Institute for Research on Collective Goods, supervised by Christoph Engel and Martin Fochmann. contact–carinah@ethz.ch
   author__avatar: '/images/me.JPG'
 
 social:

@@ -10,7 +10,7 @@ tags:   [paper]
 
 
 The current allocation of street space is based on expected vehicular peak-hour flows. 
-Flexible and adaptive use of this space can respond to changing needs. 
+Flexible and adaptive use of this space can respond to changing needs.
 
 ![Snapshots]({{site.baseurl}}/images/VR3.jpg#wide)
 *Participants crossed a street wearing VR headsets in three different design scenarios: conventional traffic light controlled pedestrian crossing (\emph{status-quo}, left), dynamic pavement for right-of-way allocation (\emph{inLED}, centre), and flat street (\emph{curbless}, right). Additionally, each traffic scenario was presented for two different times of the day with distinctive lighting, use, and traffic conditions: morning rush hour (top row) and evening traffic (bottom row).*

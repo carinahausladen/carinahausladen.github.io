@@ -1,0 +1,46 @@
+---
+layout: post
+title:  presented at FAccT 2025
+description: FAccT 2025
+date:   2025-06-17
+image:  '/images/facct3.png'
+tags:   [conference]
+---
+
+# FAccT 2025 in Athens
+
+I presented my work at **FAccT 2025 in Athens** in the session *“Papers: Images and Faces,”* which brought together cutting-edge research on fairness, bias, and social perception in facial and vision-based AI systems.
+
+The session took place on **June 25, 2025**, in Arts Lounge B, and featured a rich set of interdisciplinary contributions:
+
+- *Gone With the Bits: Revealing Racial Bias in Low-Rate Neural Compression for Facial Images*  
+  Tian Qiu, Arjun Nichani, Rasta Tadayontahmasebi, Haewon Jeong  
+
+- *Performance Differentials in Deployed Biometric Systems Caused by Open-Source Face Detectors*  
+  Cynthia M. Cook et al.  
+
+- *Social Bias in Vision Transformers: A Comparative Study Across Architectures and Learning Paradigms*  
+  Takehiro Tsurumi, Elena Beretta  
+
+- **Social Perception of Faces in a Vision-Language Model**  
+  *Carina I. Hausladen, Manuel Knott, Colin F. Camerer, Pietro Perona*  
+
+- *What TikTok Claims, What Bold Glamour Does: A Filter’s Paradox*  
+  Miriam Doh, Corinna Canali, Nuria Oliver  
+
+- *Component-Based Fairness in Face Attribute Classification with Bayesian Network-informed Meta Learning*  
+  Yifan Liu et al. (online)
+
+
+<div style="display: flex; justify-content: center; gap: 12px; margin-bottom: 20px;">
+  <img src="{{site.baseurl}}/images/facct1.png" alt="Conference moment 1"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+  <img src="{{site.baseurl}}/images/facct2.png" alt="Conference moment 2"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+  <img src="{{site.baseurl}}/images/facct4.png" alt="Conference moment 3"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+</div>
+
+
+- [Conference site](https://haps.kd2lab.kit.edu/60_201.php)
+- [Presentation slides](https://slides.com/carinah/social-perception)

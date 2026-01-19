@@ -1,0 +1,34 @@
+---
+layout: post
+title:  Panel Discussion in Bern
+description: Bern 2025
+date:   2025-09-19
+image:  '/images/bern1.jpg'
+tags:   [conference]
+---
+
+# Can AI Strengthen Democracy? Panel Discussion in Bern
+
+In November 2025, I participated in a panel discussion titled **“Can AI Strengthen Democracy?”**, held in the context of the exhibition **“AI and Democracy: Which Future Do We Want?”** in Bern.
+
+The event focused on how artificial intelligence is reshaping political communication, information ecosystems, and democratic processes. While risks such as misinformation, manipulation, and declining trust are widely debated, the discussion also emphasized AI’s potential to enhance transparency, participation, and access to information.
+
+Together with:
+
+- **Alice Delorme Benites** (ZHAW)  
+- **Florin Hasler** (BFH)
+
+and moderated by **Rafael von Matt (SRF)**, we discussed how AI systems can be democratically legitimized, how trust in political AI tools such as bots can be established, and what institutional safeguards are necessary to ensure that AI serves democratic rather than harmful purposes.
+
+The panel was part of the exhibition **“AI and Democracy: Which Future Do We Want?”** (May 15 – December 13, 2025), which builds on the research project *Stories of the Future*. Young people from all linguistic regions of Switzerland contributed short stories imagining future roles of AI in democracy. These narratives inspired artistic works by students from art universities in Zurich, Geneva, and Lugano.
+
+The exhibition and discussion illustrated how crucial interdisciplinary dialogue is for shaping a democratic digital future.
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="{{site.baseurl}}/images/bern2.jpg" alt="Conference moment 1" style="width: 33%;">
+    <img src="{{site.baseurl}}/images/bern3.jpg" alt="Conference moment 2" style="width: 33%;">
+    <img src="{{site.baseurl}}/images/bern4.jpg" alt="Conference moment 3" style="width: 33%;">
+</div>
+
+- [Website](https://www.polit-forum-bern.ch/ausstellung/ki-und-demokratie-welche-zukunft-wollen-wir/)
+- [YouTube Video](https://www.youtube.com/watch?v=UopPrDTWuEM&embeds_referring_euri=https%3A%2F%2Fwww.polit-forum-bern.ch%2F&embeds_referring_origin=https%3A%2F%2Fwww.polit-forum-bern.ch&source_ve_path=OTY3MTQ)

@@ -1,0 +1,33 @@
+---
+layout: post
+title:  presented at ESA 2025
+description: Brno 2025
+date:   2025-09-06
+image:  '/images/brno1.png'
+tags:   [conference]
+---
+
+# ESA European Meeting 2025 in Brno
+
+In early September 2025, I attended the **European Meeting of the Economic Science Association (ESA)** in **Brno, Czechia** (September 3–6), hosted by **Masaryk University**. ESA meetings are a highlight of the experimental economics calendar—bringing together work on decision-making, social preferences, market design, and behavioral interventions in a friendly, discussion-oriented setting.
+
+A special highlight was getting to see the local experimental community at the **Masaryk University Experimental Economics Laboratory (MUEEL)**, which has become an important hub for behavioral and experimental research in the region.
+
+## My presentation
+
+I presented my work **“Identifying Latent Intentions via Inverse Reinforcement Learning in Repeated Linear Public Good Games”** in the **Public Goods** session (Parallel Sessions **G.1**, Saturday 09:00–10:20). The session brought together complementary approaches to understanding cooperation and contribution behavior, ranging from measurement and motivation to strategic reasoning in public goods environments.
+
+
+
+<div style="display: flex; justify-content: center; gap: 12px; margin-bottom: 20px;">
+  <img src="{{site.baseurl}}/images/brno2.png" alt="Conference moment 1"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+  <img src="{{site.baseurl}}/images/brno3.png" alt="Conference moment 2"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+  <img src="{{site.baseurl}}/images/brno4.png" alt="Conference moment 3"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+</div>
+
+
+- [Conference site](https://haps.kd2lab.kit.edu/60_201.php)
+- [Presentation slides](https://slides.com/carinah/social-perception)

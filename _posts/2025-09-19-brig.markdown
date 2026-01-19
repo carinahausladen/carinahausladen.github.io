@@ -1,0 +1,27 @@
+---
+layout: post
+title:  presented at Matterhorn Symposium 2025
+description: Brig 2025
+date:   2025-09-19
+image:  '/images/brig.jpg'
+tags:   [conference]
+---
+
+# 2nd Matterhorn Symposium 2025
+
+In September 2025, I attended the **2nd Matterhorn Symposium** (Sep 18–20), an interdisciplinary meeting bringing together research in behavioral science, experimental economics, and decision-making. The program featured two outstanding keynote lectures by **Eric Johnson (Columbia University)** and **Elke Weber (Princeton University)**, and a rich set of sessions spanning topics from cooperation and redistribution to climate behavior, leadership, and institutional design.
+
+## My presentation
+
+I presented my work, **“Identifying Latent Intentions via Inverse Reinforcement Learning in Repeated Linear Public Good Games,”** in **Session 3L**. The session brought together complementary perspectives on how preferences are formed and revealed, featuring:
+
+- **Sebastian Goerg** (Technical University Munich): *Order effects in eliciting preferences*  
+- **Carlos Alós-Ferrer** (Lancaster University): *Who Likes It More? Using Response Times To Reveal Group Preferences in Surveys*  
+- **Carina Hausladen** (ETH Zurich): *Identifying Latent Intentions via Inverse Reinforcement Learning in Repeated Linear Public Good Games*  
+
+My talk explored how inverse reinforcement learning can be used to recover latent motives behind contribution behavior in repeated public good settings—linking behavioral patterns to underlying intentions rather than treating actions as directly observed preferences.
+
+
+
+- [Conference site](https://www.matterhornsymposium.com/symposium-2025)
+- [Presentation slides](https://slides.com/carinah/ic2s2)

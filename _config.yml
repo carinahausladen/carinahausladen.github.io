@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Carina Hausladen
-  author__bio: I am a senior scientist at ETH Zürich, working with Dirk Helbing. My research blends computational social science and economics. Previously, I worked with Colin F Camerer at Caltech. I earned my PhD at the University of Cologne and the Max Planck Institute for Research on Collective Goods, supervised by Christoph Engel and Martin Fochmann. contact–carinah@ethz.ch
+  author__bio: I am an Assistant Professor of Computational Social Science at the University of Konstanz. Previously, I was a postdoctoral researcher at ETH Zürich, working with Dirk Helbing. My research lies at the intersection of computational social science and economics. I have also worked with Colin F. Camerer at Caltech. I earned my PhD from the University of Cologne and the Max Planck Institute for Research on Collective Goods, under the supervision of Christoph Engel and Martin Fochmann. contact–carinah@ethz.ch contact–carinah@ethz.ch
   author__avatar: '/images/me.JPG'
 
 social:
@@ -28,7 +28,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Carina Hausladen
-  hero__description: I am a postdoctoral researcher at ETH Zürich, working with Dirk Helbing. My research blends computational social science and economics. Previously, I worked with Colin F Camerer at Caltech. I earned my PhD at the University of Cologne and the Max Planck Institute for Research on Collective Goods, supervised by Christoph Engel and Martin Fochmann. contact–carinah@ethz.ch
+  hero__description: I am an Assistant Professor of Computational Social Science at the University of Konstanz. Previously, I was a postdoctoral researcher at ETH Zürich, working with Dirk Helbing. My research lies at the intersection of computational social science and economics. I have also worked with Colin F. Camerer at Caltech. I earned my PhD from the University of Cologne and the Max Planck Institute for Research on Collective Goods, under the supervision of Christoph Engel and Martin Fochmann. contact–carinah@ethz.ch
   hero__image: '/images/me.JPG'
 
 

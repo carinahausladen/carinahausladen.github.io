@@ -1,0 +1,30 @@
+---
+layout: post
+title:  presented at SING 2025
+description: SING 2025
+date:   2025-06-16
+image:  '/images/SING2.png'
+tags:   [conference]
+---
+
+# European Meeting on Game Theory 2025 (SING20), Maastricht
+
+I had the pleasure of presenting my work at the European Meeting on Game Theory 2025 (SING20), hosted at Maastricht University’s School of Business and Economics from June 16–18. The conference brought together researchers from across the field, with theoretical and applied contributions spanning all areas of game theory.
+
+I presented my paper, **“Identifying latent intentions via inverse reinforcement learning in repeated linear public good games,”** in the Learning session (A1.23). The session focused on how agents form beliefs, learn, and adapt strategically—an ideal setting to discuss how inverse reinforcement learning can help uncover hidden preferences and intentions in repeated social dilemmas.
+
+It was a great experience to share the session with:
+
+- **Eric Hoffmann**, who presented work on modeling k-level reasoning with strategic complementarities and applications to p-beauty contests.  
+- **Weicheng Min**, who discussed information acquisition under uncertain signal structures.
+
+Overall, SING20 was a stimulating and welcoming conference, and I am grateful for the opportunity to exchange ideas with such an engaged and international community of researchers.
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="{{site.baseurl}}/images/SING1.png" alt="Conference moment 1" style="width: 33%;">
+    <img src="{{site.baseurl}}/images/SING20.png" alt="Conference moment 2" style="width: 33%;">
+    <img src="{{site.baseurl}}/images/SING3.png" alt="Conference moment 3" style="width: 33%;">
+</div>
+
+- [Conference programme](https://sites.google.com/view/sing20/program/scientific-program)
+- [Presentation slides](https://slides.com/carinah/ic2s2)

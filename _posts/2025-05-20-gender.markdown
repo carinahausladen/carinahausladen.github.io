@@ -1,0 +1,42 @@
+---
+layout: post
+title:  presented at KIT
+description: KIT 2025
+date:   2025-05-20
+image:  '/images/KIT1.png'
+tags:   [conference]
+---
+
+# 3rd Workshop on Gender in Adaptive Design, KIT
+
+<div style="display: flex; gap: 22px; align-items: flex-start; margin-bottom: 25px;">
+
+<div style="flex: 1;">
+
+On May 19–20, 2025, I had the pleasure of participating in the **3rd Workshop on Gender in Adaptive Design** at the KD²Lab, Karlsruhe Institute of Technology (KIT).  
+The workshop brought together researchers from economics, psychology, and computer science to discuss how adaptive and hybrid systems can promote diversity and reduce gender bias in an increasingly digital world.
+
+The two-day program featured keynote and contributed talks on gender, AI tools, discrimination, attention, hiring, and competition, as well as an academic career panel on navigating diversity across academic systems and organizations.  
+The interdisciplinary setting created a highly engaging environment for exchanging ideas and perspectives on the societal implications of adaptive technologies.
+
+On the second day, I presented my work **“Social perception of faces in a vision-language model”** in the session on facial features, discrimination, and type detection.
+
+</div>
+
+<div style="flex: 0.9; display: flex; flex-direction: column; gap: 14px;">
+
+<img src="{{site.baseurl}}/images/KIT.png"
+     alt="Conference portrait"
+     style="width: 100%; height: auto; border-radius: 6px;">
+
+<img src="{{site.baseurl}}/images/KIT2.png"
+     alt="Conference landscape view"
+     style="width: 100%; height: auto; border-radius: 6px;">
+
+</div>
+
+</div>
+
+
+- [Conference site](https://haps.kd2lab.kit.edu/60_201.php)
+- [Presentation slides](https://slides.com/carinah/social-perception)

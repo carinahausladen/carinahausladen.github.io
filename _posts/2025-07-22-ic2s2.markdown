@@ -1,0 +1,36 @@
+---
+layout: post
+title:  presented at IC2S2 2025
+description: IC2S2 2025
+date:   2025-07-22
+image:  '/images/ic2s23.png'
+tags:   [conference]
+---
+
+# IC2S2 2025 in Norrköping
+
+I attended **IC2S2 2025** in Norrköping, one of the key international conferences in computational social science. 
+
+
+I presented my work in a session chaired by **Martin Hilbert**, alongside a strong lineup of papers on social influence, institutions, and collective action:
+
+- *Social influence and behavioral contagion: A Reddit bot field experiment*  
+- *Celebrity counterspeech reduces hate content in the Nigerian Twitter*  
+- *Institutional preferences in the laboratory*  
+- **Identifying latent intentions via inverse reinforcement learning in repeated linear public good games** (my presentation)  
+- *Reasoning within and between collective action problems*
+
+My presentation focused on how inverse reinforcement learning can be used to recover latent motivations in repeated public good interactions, contributing to the broader discussion on institutional behavior and social preferences.
+
+<div style="display: flex; justify-content: center; gap: 12px; margin-bottom: 20px;">
+  <img src="{{site.baseurl}}/images/ic2s2_water.png" alt="Conference moment 1"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+  <img src="{{site.baseurl}}/images/ic2s2_water2.png" alt="Conference moment 2"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+  <img src="{{site.baseurl}}/images/ic2s2_water3.png" alt="Conference moment 3"
+       style="width: 30%; height: 160px; object-fit: cover; border-radius: 6px;">
+</div>
+
+
+- [Conference site](https://x.com/IC2S2)
+- [Presentation slides](https://slides.com/carinah/ic2s2)

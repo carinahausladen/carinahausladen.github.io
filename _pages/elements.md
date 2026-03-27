@@ -10,8 +10,7 @@ permalink: /elements/
 
 #### Under Review
 
-
-<li><strong>Hausladen CI</strong>, Schubert MF, Engel C. <em>Identifying Latent Intentions via Inverse Reinforcement Learning in Repeated Linear Public Good Games.</em> 2026. <a href="https://arxiv.org/pdf/2601.08803">arXiv:2601:08803v1</a>.</li>
+<ol><li><strong>Hausladen CI</strong>, Schubert MF, Engel C. <em>Identifying Latent Intentions via Inverse Reinforcement Learning in Repeated Linear Public Good Games.</em> 2026. <a href="https://arxiv.org/pdf/2601.08803">arXiv:2601:08803v1</a>.</li>
 
 <li><strong>Hausladen CI</strong>, Argota Sánchez-Vaquerizo J, Siebenmann M, Capozzi A, Mahajan S, Helbing D. <em>Beyond the Townhall: Spatial Anchoring and LLM Agents for Scalable Participatory Urban Planning.</em> 2026. <a href="https://drive.google.com/file/d/1p82ZQe8Pib3TM2eVZvJZENHuo7TDfmhc/view?usp=sharing">Preprint</a>.</li>
 
@@ -23,8 +22,7 @@ permalink: /elements/
 
 #### Peer Reviewed
 
-
-<li><strong>Hausladen CI</strong>, Knott M, Camerer CF, Perrona P. <em>Social perception of faces in a vision-language model.</em> 2025. <a href="https://arxiv.org/abs/2408.14435">ACM Conference on Fairness, Accountability, and Transparency (FAccT)</a>.</li>
+<ol start="4"><li><strong>Hausladen CI</strong>, Knott M, Camerer CF, Perrona P. <em>Social perception of faces in a vision-language model.</em> 2025. <a href="https://arxiv.org/abs/2408.14435">ACM Conference on Fairness, Accountability, and Transparency (FAccT)</a>.</li>
 
 <li>Brodeur A, Valenta D, Marcoci A, Aparicio JP, Mikola D, Barbarioli B, Alexander R, Deer L, Stafford T, ..., <strong>Hausladen CI</strong>, et al. <em>Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science.</em> 2025. <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf">I4R Discussion Paper Series</a>.</li>
 

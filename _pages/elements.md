@@ -4,7 +4,9 @@ title: Publications
 permalink: /elements/
 ---
 
-### Publications | Citations > 770, h-index: 12
+### Publications | Citations > 870, h-index: 12
+
+[View on Google Scholar →](https://scholar.google.com/citations?user=hzSOg6MAAAAJ&hl=en)
 
 ---
 
@@ -22,13 +24,15 @@ permalink: /elements/
 
 #### Peer Reviewed
 
-<ol start="4"><li><strong>Hausladen CI</strong>, Knott M, Camerer CF, Perrona P. <em>Social perception of faces in a vision-language model.</em> 2025. <a href="https://arxiv.org/abs/2408.14435">ACM Conference on Fairness, Accountability, and Transparency (FAccT)</a>.</li>
+<ol start="4"><li>Brodeur A, Mikola D, Cook N, Fiala L, Brailey T, Briggs R, De Gendre A, ..., <strong>Hausladen CI</strong>, et al. <em>Reproducibility and robustness of economics and political science research.</em> 2026. <a href="https://www.nature.com/articles/s41586-026-10251-x">Nature</a>.</li>
 
-<li>Brodeur A, Valenta D, Marcoci A, Aparicio JP, Mikola D, Barbarioli B, Alexander R, Deer L, Stafford T, ..., <strong>Hausladen CI</strong>, et al. <em>Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science.</em> 2025. <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf">I4R Discussion Paper Series</a>.</li>
+<li><strong>Hausladen CI</strong>, Knott M, Camerer CF, Perrona P. <em>Social perception of faces in a vision-language model.</em> 2025. <a href="https://arxiv.org/abs/2408.14435">ACM Conference on Fairness, Accountability, and Transparency (FAccT)</a>.</li>
+
+<li>Brodeur A, Valenta D, Marcoci A, Aparicio JP, Mikola D, Barbarioli B, Alexander R, Deer L, Stafford T, ..., <strong>Hausladen CI</strong>, et al. <em>AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science.</em> 2026. <a href="https://www.pnas.org/doi/10.1073/pnas.2524747123">PNAS</a>.</li>
 
 <li>Yang JC, Korecki M, Dailisan D, <strong>Hausladen CI</strong>, Helbing D. <em>LLM voting: Human choices and AI collective decision making.</em> 2024. <a href="https://doi.org/10.48550/arXiv.2402.01766">AAAI Conference on AI, Ethics, and Society</a>.</li>
 
-<li><strong>Hausladen CI</strong>, Gallo M, Hsu M, Jenkins AC, Ona V, Camerer CF. <em>Social perceptions predict callback rates in North American labor market experiments.</em> 2024. <a href="https://doi.org/10.1371/journal.pone.0304723">PLOS ONE</a>.</li>
+<li>Gallo M, <strong>Hausladen CI</strong>, Hsu M, Jenkins AC, Ona V, Camerer CF. <em>Perceived warmth and competence predict callback rates in meta-analyzed North American labor market experiments.</em> 2024. <a href="https://doi.org/10.1371/journal.pone.0304723">PLOS ONE</a>.</li>
 
 <li>Stockinger E, Gallotti R, <strong>Hausladen CI</strong>. <em>Early morning hour and evening usage habits increase misinformation spread.</em> 2024. <a href="https://www.nature.com/articles/s41598-024-69447-8">Scientific Reports</a>.</li>
 
@@ -36,7 +40,7 @@ permalink: /elements/
 
 <li>Yang JC, <strong>Hausladen CI</strong>, Peters D, Pournaras E, Hänggli Fricker R, Helbing D. <em>Designing digital voting systems for citizens: Achieving fairness and legitimacy in participatory budgeting.</em> 2024. <a href="https://dl.acm.org/doi/abs/10.1145/3665332">Digital Government: Research and Practice</a>.</li>
 
-<li>Argota Sánchez-Vaquerizo J, <strong>Hausladen CI</strong>, Mahajan S, Matter M, Siebenmann M, Van Eggermond M, Helbing D. <em>Exploring citizen perception of future street scenarios: A virtual reality experiment.</em> 2024. <a href="https://doi.org/10.1038/s41598-024-55073-x">Scientific Reports</a>.</li>
+<li>Argota Sánchez-Vaquerizo J, <strong>Hausladen CI</strong>, Mahajan S, Matter M, Siebenmann M, Van Eggermond M, Helbing D. <em>A virtual reality experiment to study pedestrian perception of future street scenarios.</em> 2024. <a href="https://doi.org/10.1038/s41598-024-55073-x">Scientific Reports</a>.</li>
 
 <li><strong>Hausladen CI</strong>, Nikolaychuk O. <em>Color me honest! Time pressure and dis(honest) behavior.</em> 2024. <a href="https://doi.org/10.3389/frbhe.2023.1337312">Frontiers in Behavioral Economics</a>.</li>
 

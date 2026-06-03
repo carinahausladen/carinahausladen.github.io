@@ -75,7 +75,7 @@ permalink: /teaching/
 
   <div class="course-card">
     <div class="course-card__meta">
-      {{ book_icon }}<span class="course-card__label">Seminar &middot; 2 SWS</span>
+      {{ book_icon }}<span class="course-card__label">Seminar &middot; 7 ECTS</span>
     </div>
     <h4>AI, Society, and Human Behavior: Research Methods in Context</h4>
     <p>Explores AI ethics, bias and fairness, social choice and alignment, reinforcement learning for social dilemmas, and computational methods for behavioral analysis. Part of M.A. Politics and Public Administration.</p>

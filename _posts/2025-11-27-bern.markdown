@@ -2,7 +2,7 @@
 layout: post
 title:  Panel Discussion in Bern
 description: Bern 2025
-date:   2025-09-19
+date:   2025-11-27
 image:  '/images/bern1.jpg'
 tags:   [conference]
 ---

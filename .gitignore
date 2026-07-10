@@ -4,3 +4,15 @@ _site
 .jekyll-metadata
 .DS_Store
 .idea/
+
+# Private CV working area + job applications (incl. signature) — never publish.
+# The site's CV page uses /images/CV_2026.pdf, which is separate and tracked.
+CV/
+
+# Raw figure sources (rendered PNGs in the repo are what the site uses)
+/images/fig2-2.pdf
+/images/intersect_age_delta_singlerow_agency_2x2.pdf
+/images/master_panel_10.pdf
+/images/simplex_diagram_Ridge_isotonic.pdf
+/images/CleanShot 2026-07-10 at 09.59.23.png
+/images/nature-logo.png

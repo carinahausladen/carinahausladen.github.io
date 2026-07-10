@@ -1,20 +1,18 @@
 ---
 layout: default
-image: '/images/01.jpg'
+title: Publications
 ---
 
-{% include hero.html %}
+{% include bio.html %}
 
-<div class="container">
-  <div class="row animate">
-    {% if site.posts.size > 0 %}
-      {% for post in paginator.posts %}
-        {% include article.html %}
-      {% endfor %}
-    {% endif %}
+<section class="block">
+  <div class="eyebrow">
+    <h2>Selected Publications</h2>
+    <span class="rule"></span>
+    <a class="more" href="https://scholar.google.com/citations?user=hzSOg6MAAAAJ&amp;hl=en" target="_blank" rel="noopener">Full list on Google Scholar →</a>
   </div>
-</div>
 
-{% include pagination.html %}
-
-{% include section-tags.html %}
+  {% for pub in site.data.publications %}
+    {% include pub.html pub=pub %}
+  {% endfor %}
+</section>

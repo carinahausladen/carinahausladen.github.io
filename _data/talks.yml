@@ -1,0 +1,52 @@
+# ---------------------------------------------------------------------------
+# Conference presentations and invited talks, grouped by project/paper.
+# Fields:
+#   title         project or paper the talks were about
+#   slides_embed  a slides.com deck URL (base URL, no /embed). When set, an
+#                 interactive, clickable slide preview is embedded on the page,
+#                 plus an "Open on slides.com" link. e.g.
+#                 https://slides.com/carinah/my-deck
+#   slides        (fallback) a plain link to slides if you don't want an embed
+#   venues:       list of { name, year, video?, slides? }
+#                 add video: "https://…" to a venue to show a red "Watch" button
+# Order below is the display order on the page.
+# ---------------------------------------------------------------------------
+
+- title: Identifying Latent Intentions via Inverse Reinforcement Learning
+  slides_embed: https://slides.com/carinah/latent_intentions
+  venues:
+    - { name: "Thurgau Experimental Economics Meeting", year: 2025 }
+    - { name: "European Meeting of the Economic Science Association", year: 2025 }
+    - { name: "International Conference on Computational Social Science (IC2S2)", year: 2025 }
+    - { name: "20th European Meeting on Game Theory (SING20)", year: 2025 }
+    - { name: "2nd Matterhorn Symposium", year: 2025 }
+    - { name: "ETH Zürich Behavioral Studies Colloquium", year: 2025 }
+    - { name: "ASA Methodology Section Midyear Meeting", year: 2025 }
+    - { name: "Economics and Computation (EC), poster", year: 2021 }
+    - { name: "Amsterdam Cooperation Lab", year: 2020 }
+
+- title: Social Perception of Faces in a Vision-Language Model
+  slides_embed: https://slides.com/carinah/social-perception
+  venues:
+    - { name: "ACM Conference on Fairness, Accountability, and Transparency (FAccT)", year: 2025 }
+    - { name: "World Bank — Measuring Development", year: 2024 }
+    - { name: "Thurgau Experimental Economics Meeting", year: 2024 }
+    - { name: "Monash–Warwick–Zürich Text-As-Data Workshop", year: 2024 }
+    - { name: "ETH Zürich Behavioral Studies Colloquium", year: 2024 }
+    - { name: "ESIF Economics and AI+ML Meeting", year: 2024 }
+    - { name: "Economics of Information and Communication Technologies", year: 2024 }
+    - { name: "Conference on Frontiers in Machine Learning and Economics", year: 2024 }
+    - { name: "1st Matterhorn Symposium", year: 2023 }
+
+- title: Social Perceptions Predict North American Labor Market Outcomes
+  slides_embed: https://slides.com/carinah/warmth-competence
+  venues:
+    - { name: "Annual Conference of Experimental Sociology (ACES)", year: 2024 }
+    - { name: "Western Economic Association International", year: 2023 }
+
+- title: How Voting Rules Impact Legitimacy
+  slides_embed: https://slides.com/carinah/voting_rules
+  venues:
+    - { name: "Back to the Future Conference, ETH Zürich", year: 2025 }
+    - { name: "IFIP EGOV", year: 2024 }
+    - { name: "Workshop on Experimental Sociology, London School of Economics", year: 2021 }

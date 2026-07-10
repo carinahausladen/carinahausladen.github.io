@@ -1,0 +1,25 @@
+{% assign p = include.pub %}
+<article class="pub">
+  {% if p.image %}
+  <div class="pub__thumb"><img src="{{ p.image | relative_url }}" alt="" loading="lazy"></div>
+  {% else %}
+  <div class="pub__thumb pub__thumb--text"><span>{{ p.venue_short }}</span></div>
+  {% endif %}
+  <div class="pub__body">
+    <h3 class="pub__title">
+      {% if p.url %}<a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
+    </h3>
+    <p class="pub__authors">{{ p.authors | replace: 'C. I. Hausladen', '<span class="me">C. I. Hausladen</span>' }}</p>
+    <p class="pub__venue"><em>{{ p.venue }}</em> · <span class="yr">{{ p.year }}</span>{% if p.note %} &nbsp;·&nbsp; {{ p.note }}{% endif %}</p>
+    <div class="pill-row">
+      {% if p.abstract %}<button class="pill pill--abstract" type="button">Abstract</button>{% endif %}
+      {% if p.arxiv %}<a class="pill" href="{{ p.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
+      {% if p.html %}<a class="pill" href="{{ p.html }}" target="_blank" rel="noopener">HTML</a>{% endif %}
+      {% if p.code %}<a class="pill" href="{{ p.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+      {% if p.slides %}<a class="pill" href="{{ p.slides }}" target="_blank" rel="noopener">Slides</a>{% endif %}
+      {% if p.press %}<a class="pill" href="{{ p.press }}" target="_blank" rel="noopener">Press</a>{% endif %}
+      {% if p.citations %}<span class="cited">Cited by <b>{{ p.citations }}</b></span>{% endif %}
+    </div>
+    {% if p.abstract %}<div class="pub__abstract" hidden>{{ p.abstract }}</div>{% endif %}
+  </div>
+</article>

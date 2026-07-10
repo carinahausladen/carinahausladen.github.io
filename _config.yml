@@ -91,17 +91,7 @@ google-analytics: # Add your GA Tracking Id
 markdown: kramdown
 permalink: /:title
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-compress-images
-
-imageoptim:
-  pngout: true
-  svgo: false
-  verbose: true
-
-paginate: 9
-paginate_path: "/page/:num"
 
 # Pages Path
 defaults:
@@ -113,6 +103,18 @@ defaults:
 
 include:
   - _pages
+
+# The old blog posts are retired from the new design but kept on disk.
+# Remove "_posts" below to bring them back into the build.
+exclude:
+  - _posts
+  - CV
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .jekyll-cache
+  - _compress_images_cache.yml
 
 sass:
   sass_dir: _sass

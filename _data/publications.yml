@@ -1,0 +1,120 @@
+# ---------------------------------------------------------------------------
+# Selected publications — shown on the landing page, newest / most relevant first.
+# The full list lives on Google Scholar (linked from the page header).
+#
+# Fields per entry:
+#   title        (required)
+#   authors      (required)  keep "C. I. Hausladen" spelled exactly so it bolds automatically
+#   venue        (required)  journal / conference, rendered in italics
+#   venue_short  fallback text tile when there is no image (e.g. "FAccT 2025")
+#   year         (required)
+#   image        optional thumbnail, e.g. /images/CLIP1.png
+#   url          where the title links (paper page / arXiv). Omit to leave unlinked.
+#   arxiv / html / code / slides / press   optional link buttons (only shown if present)
+#   citations    optional "Cited by N" (manual — update occasionally from Scholar)
+#   note         optional small note, e.g. "* equal contribution"
+#   abstract     optional — shows the "Abstract" toggle button
+# To add a paper, copy a block and fill it in.
+# ---------------------------------------------------------------------------
+
+- title: Identifying Latent Intentions via Inverse Reinforcement Learning in Repeated Linear Public Good Games
+  authors: C. I. Hausladen, M. H. Schubert, C. Engel
+  venue: arXiv preprint
+  venue_short: arXiv 2026
+  year: 2026
+  image: /images/irl.png
+  url: https://arxiv.org/abs/2601.08803
+  arxiv: https://arxiv.org/abs/2601.08803
+  abstract: >
+    We apply inverse reinforcement learning to repeated linear public-good games to recover the
+    latent intentions — the reward functions — that best explain players' contribution behavior,
+    offering a data-driven way to characterize the heterogeneous motivations behind cooperation.
+
+- title: Social Perception of Faces in a Vision-Language Model
+  authors: C. I. Hausladen, M. Knott, C. F. Camerer, P. Perona
+  venue: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
+  venue_short: FAccT 2025
+  year: 2025
+  image: /images/CLIP1.png
+  url: https://arxiv.org/abs/2408.14435
+  arxiv: https://arxiv.org/abs/2408.14435
+  code: # add repo URL
+  slides: # add slides URL
+  citations: 18
+  abstract: >
+    We probe social perception of human faces in CLIP, a widely used vision-language model, by
+    comparing embedding similarity between validated social-psychology prompts and synthetic faces
+    varied along age, gender, race, expression, lighting, and pose. CLIP makes fine-grained,
+    human-like social judgments — but age, gender, and race systematically bias them, most
+    strikingly for the faces of Black women. Controlling unprotected visual attributes proves
+    essential: studies that omit them may reach the wrong conclusions about bias.
+
+- title: "LLM Voting: Human Choices and AI Collective Decision Making"
+  authors: J. C. Yang, M. Korecki, D. Dailisan, C. I. Hausladen, D. Helbing
+  venue: AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+  venue_short: AIES 2024
+  year: 2024
+  image: /images/LLM_voting/overview.png
+  url: https://arxiv.org/abs/2402.01766
+  arxiv: https://arxiv.org/abs/2402.01766
+  citations: 130
+  abstract: >
+    We compare the voting behavior of GPT-4 and LLaMA-2 against a human baseline drawn from a
+    voting experiment. Input format and choice presentation shift LLM votes; varying persona
+    reduces some biases and improves alignment, while a temperature-driven trade-off pits
+    preference diversity against alignment accuracy. LLMs can narrow collective outcomes,
+    underscoring the need for caution when integrating them into democratic processes.
+
+- title: Perceived Warmth and Competence Predict Callback Rates in Meta-Analyzed North American Labor Market Experiments
+  authors: C. I. Hausladen*, M. Gallo*, M. Hsu, A. C. Jenkins, V. Ona, C. F. Camerer
+  venue: PLoS ONE
+  venue_short: PLoS ONE
+  year: 2024
+  image: /images/warmth.png
+  url: # add PLoS ONE article URL
+  note: "* equal contribution"
+  citations: 7
+  abstract: >
+    Integrating correspondence-study evidence with the Stereotype Content Model, we ask whether
+    hiring discrimination can be predicted from warmth and competence perceptions. Across 21
+    published studies and 592 social signals, social perception predicts callback disparities for
+    race and gender, but not consistently for signals like sexuality or disability — offering a
+    framework to identify likely bias without running new correspondence studies.
+
+- title: AI-Assisted Teams Outperform AI-Led Teams but Not Human-Only Teams in Assessing Research Reproducibility in Quantitative Social Science
+  authors: A. Brodeur, D. Valenta, A. Marcoci, … C. I. Hausladen, et al.
+  venue: Proceedings of the National Academy of Sciences (PNAS)
+  venue_short: PNAS 2026
+  year: 2026
+  image: /images/pnas-logo.png
+  url: https://www.pnas.org/doi/10.1073/pnas.2524747123
+  citations: 1
+  abstract: >
+    A large collaborative study comparing human-only, AI-assisted, and AI-led teams on their
+    ability to assess the reproducibility of quantitative social-science research: AI-assisted
+    teams outperform AI-led teams, but do not surpass human-only teams.
+
+- title: Reproducibility and Robustness of Economics and Political Science Research
+  authors: A. Brodeur, D. Mikola, N. Cook, … C. I. Hausladen, et al.
+  venue: Nature
+  venue_short: Nature 2026
+  year: 2026
+  image: /images/nature-reproducibility.png
+  url: # add Nature article URL (Nature 652, 151–156)
+  citations: 17
+  abstract: >
+    A mass replication and robustness-reproduction effort assessing the reliability of published
+    findings across economics and political science.
+
+- title: Text Classification of Ideological Direction in Judicial Opinions
+  authors: C. I. Hausladen, M. H. Schubert, E. Ash
+  venue: International Review of Law and Economics
+  venue_short: Int. Rev. Law & Econ.
+  year: 2020
+  image: /images/judicial.png
+  url: # add article DOI/URL
+  citations: 65
+  abstract: >
+    Using the text of U.S. Circuit Court opinions, we train supervised classifiers to predict the
+    ideological direction (liberal vs. conservative) of judicial decisions, comparing text
+    representations and models to recover a signal of ideology directly from legal language.

@@ -9,11 +9,12 @@
 #   venue_short  fallback text tile when there is no image (e.g. "FAccT 2025")
 #   year         (required)
 #   image        optional thumbnail, e.g. /images/CLIP1.png
-#   url          where the title links (paper page / arXiv). Omit to leave unlinked.
+#   url          where the title links — the PUBLISHED version (DOI / publisher page).
+#                Omit to leave unlinked.
 #   arxiv / html / code / slides / press   optional link buttons (only shown if present)
 #   citations    optional "Cited by N" (manual — update occasionally from Scholar)
 #   note         optional small note, e.g. "* equal contribution"
-#   abstract     optional — shows the "Abstract" toggle button
+#   abstract     optional — shows the "Abstract" toggle button (verbatim from the paper)
 # To add a paper, copy a block and fill it in.
 # ---------------------------------------------------------------------------
 
@@ -26,9 +27,19 @@
   url: https://arxiv.org/abs/2601.08803
   arxiv: https://arxiv.org/abs/2601.08803
   abstract: >
-    We apply inverse reinforcement learning to repeated linear public-good games to recover the
-    latent intentions — the reward functions — that best explain players' contribution behavior,
-    offering a data-driven way to characterize the heterogeneous motivations behind cooperation.
+    Behavior in repeated public goods games continues to challenge standard theory: heterogeneous
+    social preferences can explain first-round contributions, but not the substantial volatility
+    observed across repeated interactions. Using 50,390 decisions from 2,938 participants, we
+    introduce two methodological advances to address this gap. First, we cluster behavioral
+    trajectories by their temporal shape using Dynamic Time Warping, yielding distinct and
+    theoretically interpretable behavioral types. Second, we apply a hierarchical inverse
+    Q-learning framework that models decisions as discrete switches between latent cooperative and
+    defective intentions. This approach reveals a large (21.4%) and previously unmodeled behavioral
+    type — Switchers — who frequently reverse intentions rather than commit to stable strategies.
+    At the same time, the framework recovers canonical strategic behaviors such as persistent
+    cooperation and free-riding. Substantively, recognizing intentional volatility helps sustain
+    cooperation: brief defections by Switchers often reverse, so strategic patience can prevent
+    unnecessary breakdowns.
 
 - title: Social Perception of Faces in a Vision-Language Model
   authors: C. I. Hausladen, M. Knott, C. F. Camerer, P. Perona
@@ -36,18 +47,31 @@
   venue_short: FAccT 2025
   year: 2025
   image: /images/CLIP1.png
-  url: https://arxiv.org/abs/2408.14435
+  url: https://dl.acm.org/doi/10.1145/3715275.3732041
   arxiv: https://arxiv.org/abs/2408.14435
-  code: # add repo URL
-  slides: # add slides URL
   citations: 18
   abstract: >
-    We probe social perception of human faces in CLIP, a widely used vision-language model, by
-    comparing embedding similarity between validated social-psychology prompts and synthetic faces
-    varied along age, gender, race, expression, lighting, and pose. CLIP makes fine-grained,
-    human-like social judgments — but age, gender, and race systematically bias them, most
-    strikingly for the faces of Black women. Controlling unprotected visual attributes proves
-    essential: studies that omit them may reach the wrong conclusions about bias.
+    We explore social perception of human faces in CLIP, a widely used open-source vision-language
+    model. To this end, we compare the similarity in CLIP embeddings between different textual
+    prompts and a set of face images. Our textual prompts are constructed from well-validated
+    social psychology terms denoting social perception. The face images are synthetic and are
+    systematically and independently varied along six dimensions: the legally protected attributes
+    of age, gender, and race, as well as facial expression, lighting, and pose. Independently and
+    systematically manipulating face attributes allows us to study the effect of each on social
+    perception and avoids confounds that can occur in wild-collected data due to uncontrolled
+    systematic correlations between attributes. Thus, our findings are experimental rather than
+    observational. Our main findings are three. First, while CLIP is trained on the widest variety
+    of images and texts, it is able to make fine-grained human-like social judgments on face
+    images. Second, age, gender, and race do systematically impact CLIP's social perception of
+    faces, suggesting an undesirable bias in CLIP vis-a-vis legally protected attributes. Most
+    strikingly, we find a strong pattern of bias concerning the faces of Black women, where CLIP
+    produces extreme values of social perception across different ages and facial expressions.
+    Third, facial expression impacts social perception more than age and lighting as much as age.
+    The last finding predicts that studies that do not control for unprotected visual attributes
+    may reach the wrong conclusions on bias. Our novel method of investigation, which is founded on
+    the social psychology literature and on the experiments involving the manipulation of
+    individual attributes, yields sharper and more reliable observations than previous
+    observational methods and may be applied to study biases in any vision-language model.
 
 - title: "LLM Voting: Human Choices and AI Collective Decision Making"
   authors: J. C. Yang, M. Korecki, D. Dailisan, C. I. Hausladen, D. Helbing
@@ -55,15 +79,22 @@
   venue_short: AIES 2024
   year: 2024
   image: /images/LLM_voting/overview.png
-  url: https://arxiv.org/abs/2402.01766
+  url: https://ojs.aaai.org/index.php/AIES/article/view/31758
   arxiv: https://arxiv.org/abs/2402.01766
   citations: 130
   abstract: >
-    We compare the voting behavior of GPT-4 and LLaMA-2 against a human baseline drawn from a
-    voting experiment. Input format and choice presentation shift LLM votes; varying persona
-    reduces some biases and improves alignment, while a temperature-driven trade-off pits
-    preference diversity against alignment accuracy. LLMs can narrow collective outcomes,
-    underscoring the need for caution when integrating them into democratic processes.
+    This paper investigates the voting behaviors of Large Language Models (LLMs), specifically
+    GPT-4 and LLaMA-2, their biases, and how they align with human voting patterns. Our methodology
+    involved using a dataset from a human voting experiment to establish a baseline for human
+    preferences and conducting a corresponding experiment with LLM agents. We observed that the
+    choice of voting methods and the presentation order influenced LLM voting outcomes. We found
+    that varying the persona can reduce some of these biases and enhance alignment with human
+    choices. While the Chain-of-Thought approach did not improve prediction accuracy, it has
+    potential for AI explainability in the voting process. We also identified a trade-off between
+    preference diversity and alignment accuracy in LLMs, influenced by different temperature
+    settings. Our findings indicate that LLMs may lead to less diverse collective outcomes and
+    biased assumptions when used in voting scenarios, emphasizing the need for cautious integration
+    of LLMs into democratic processes.
 
 - title: Perceived Warmth and Competence Predict Callback Rates in Meta-Analyzed North American Labor Market Experiments
   authors: C. I. Hausladen*, M. Gallo*, M. Hsu, A. C. Jenkins, V. Ona, C. F. Camerer
@@ -71,15 +102,31 @@
   venue_short: PLoS ONE
   year: 2024
   image: /images/warmth.png
-  url: # add PLoS ONE article URL
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304723
   note: "* equal contribution"
   citations: 7
   abstract: >
-    Integrating correspondence-study evidence with the Stereotype Content Model, we ask whether
-    hiring discrimination can be predicted from warmth and competence perceptions. Across 21
-    published studies and 592 social signals, social perception predicts callback disparities for
-    race and gender, but not consistently for signals like sexuality or disability — offering a
-    framework to identify likely bias without running new correspondence studies.
+    Extensive literature probes labor market discrimination through correspondence studies in which
+    researchers send pairs of resumes to employers, which are closely matched except for social
+    signals such as gender or ethnicity. Upon perceiving these signals, individuals quickly activate
+    associated stereotypes. The Stereotype Content Model (SCM; Fiske 2002) categorizes these
+    stereotypes into two dimensions: warmth and competence. Our research integrates findings from
+    correspondence studies with theories of social psychology, asking: Can discrimination between
+    social groups, measured through employer callback disparities, be predicted by warmth and
+    competence perceptions of social signals? We collect callback rates from 21 published
+    correspondence studies, varying for 592 social signals. On those social signals, we collected
+    warmth and competence perceptions from an independent group of online raters. We found that
+    social perception predicts callback disparities for studies varying race and gender, which are
+    indirectly signaled by names on these resumes. Yet, for studies adjusting other categories like
+    sexuality and disability, the influence of social perception on callbacks is inconsistent. For
+    instance, a more favorable perception of signals like parenthood does not consistently lead to
+    increased callbacks, underscoring the necessity for further research. Our research offers
+    pivotal strategies to address labor market discrimination in practice. Leveraging the warmth and
+    competence framework allows for the predictive identification of bias against specific groups
+    without extensive correspondence studies. By distilling hiring discrimination into these two
+    dimensions, we not only facilitate the development of decision support systems for hiring
+    managers but also equip computer scientists with a foundational framework for debiasing Large
+    Language Models and other methods that are increasingly employed in hiring processes.
 
 - title: AI-Assisted Teams Outperform AI-Led Teams but Not Human-Only Teams in Assessing Research Reproducibility in Quantitative Social Science
   authors: A. Brodeur, D. Valenta, A. Marcoci, … C. I. Hausladen, et al.
@@ -90,9 +137,26 @@
   url: https://www.pnas.org/doi/10.1073/pnas.2524747123
   citations: 1
   abstract: >
-    A large collaborative study comparing human-only, AI-assisted, and AI-led teams on their
-    ability to assess the reproducibility of quantitative social-science research: AI-assisted
-    teams outperform AI-led teams, but do not surpass human-only teams.
+    Large Language Models (LLMs) such as ChatGPT are transforming how scientists conduct and
+    validate research, offering promise as tools to improve scientific reproducibility. However,
+    computational reproducibility and error detection remain expensive and labor-intensive. We
+    experimentally test how collaboration between researchers and LLM assistants influences the
+    reproduction of quantitative social science findings across different levels of AI autonomy. We
+    randomly assigned 288 researchers to 103 teams working under three conditions: human-only,
+    AI-assisted (using ChatGPT as a collaborative tool), or AI-led (ChatGPT operating with minimal
+    human oversight). Teams reproduced published results from leading social science journals,
+    detected coding errors, and proposed robustness checks. Human-only and AI-assisted teams
+    achieved comparable reproduction rates (94% vs. 91%) and performed similarly on most outcomes,
+    except human-only teams identified significantly more major coding errors. Both substantially
+    outperformed AI-led teams, which achieved only a 37% reproduction rate, detected fewer errors
+    across all categories, proposed weaker robustness checks, and required more time. This
+    autonomous approach, however, likely represents only a lower bound of AI capabilities. Despite
+    rapid model advances, expert human judgment currently remains indispensable for reliable
+    empirical verification. While AI assistance did not degrade most outcomes, it provided no
+    measurable advantages and was associated with reduced detection of major errors. However, the
+    37% autonomous reproduction rate indicates that AI could provide value in settings where scale
+    or cost constraints preclude human review of papers, even though general-purpose LLMs offer no
+    immediate advantages for human-supervised verification.
 
 - title: Reproducibility and Robustness of Economics and Political Science Research
   authors: A. Brodeur, D. Mikola, N. Cook, … C. I. Hausladen, et al.
@@ -100,11 +164,23 @@
   venue_short: Nature 2026
   year: 2026
   image: /images/nature-reproducibility.png
-  url: # add Nature article URL (Nature 652, 151–156)
+  url: https://www.nature.com/articles/s41586-026-10251-x
   citations: 17
   abstract: >
-    A mass replication and robustness-reproduction effort assessing the reliability of published
-    findings across economics and political science.
+    Science aspires to be cumulative. Reproducibility efforts strengthen science by testing the
+    reliability of published findings, promoting self-correction, and informing policy-making.
+    Computational reproductions, whereby independent researchers reproduce the results of published
+    studies, are an essential diagnostic tool. Such efforts should have greater visibility. However,
+    little social science reproduction and robustness has been conducted at scale. Here we
+    reproduced original analyses and conducted robustness checks of 110 articles that were published
+    in leading economics and political science journals with mandatory data and code sharing
+    policies. We found that more than 85% of published claims were computationally reproducible. In
+    robustness checks, our reanalyses showed that 72% of statistically significant estimates remain
+    significant and in the same direction, and the median reproduced effect size is nearly the same
+    as the originally published effect size (that is, 99% of the published effect size).
+    Additionally, 6 independent research teams examined 12 pre-specified hypotheses about
+    determinants of robustness. Research teams with more experience found lower levels of
+    robustness, and robustness did not correlate with author characteristics or data availability.
 
 - title: Text Classification of Ideological Direction in Judicial Opinions
   authors: C. I. Hausladen, M. H. Schubert, E. Ash
@@ -112,9 +188,13 @@
   venue_short: Int. Rev. Law & Econ.
   year: 2020
   image: /images/judicial.png
-  url: # add article DOI/URL
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0144818819303667
   citations: 65
   abstract: >
-    Using the text of U.S. Circuit Court opinions, we train supervised classifiers to predict the
-    ideological direction (liberal vs. conservative) of judicial decisions, comparing text
-    representations and models to recover a signal of ideology directly from legal language.
+    This paper draws on machine learning methods for text classification to predict the ideological
+    direction of decisions from the associated text. Using a 5% hand-coded sample of cases from U.S.
+    Circuit Courts, we explore and evaluate a variety of machine classifiers to predict
+    "conservative decision" or "liberal decision" in held-out data. Our best classifier is highly
+    predictive (F1 = .65) and allows us to extrapolate ideological direction to the full sample. We
+    then use these predictions to replicate and extend Landes and Posner's (2009) analysis of how
+    the party of the nominating president influences circuit judge's votes.

@@ -10,7 +10,7 @@ permalink: /join/
 </figure>
 
 <p class="join-lead">
-  I'm always glad to hear from people whose interests overlap with mine. Whichever route fits you,
+  I am always glad to hear from people whose interests overlap with mine. Whichever route fits you,
   please <a href="mailto:carina.hausladen@uni-konstanz.de">email me a short note</a> about your interests
   and a rough project idea before applying.
 </p>
@@ -26,7 +26,7 @@ permalink: /join/
 
 <div class="join-item">
   <h3>Postdocs applying for fellowships</h3>
-  <p>I'm happy to host and co-develop applications for postdoctoral fellowships in computational social science. Get in touch well ahead of the deadline so we can shape the proposal together.</p>
+  <p>I am happy to host and co-develop applications for postdoctoral fellowships in computational social science. Get in touch well ahead of the deadline so we can shape the proposal together.</p>
   <div class="join-links">
     <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener">Marie Skłodowska-Curie Postdoctoral Fellowship ↗</a>
     <a href="https://www.uni-konstanz.de/zukunftskolleg/fellowships/postdoctoral-fellowship/" target="_blank" rel="noopener">Zukunftskolleg Postdoctoral Fellowship ↗</a>
@@ -52,7 +52,7 @@ permalink: /join/
 
 <div class="join-item">
   <h3>Bachelor's &amp; Master's students</h3>
-  <p>I occasionally supervise theses for students enrolled at Konstanz. Funded assistant (Hiwi) positions are advertised separately when available.</p>
+  <p>I supervise theses for students enrolled at Konstanz. Funded assistant (Hiwi) positions are advertised separately when available.</p>
   <div class="join-links">
     <a href="https://www.uni-konstanz.de/en/study/study-essentials/finances/financing-your-studies/jobs-for-students/" target="_blank" rel="noopener">Student jobs portal ↗</a>
   </div>

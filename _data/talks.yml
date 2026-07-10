@@ -28,8 +28,8 @@
 - title: Social Perception of Faces in a Vision-Language Model
   slides_embed: https://slides.com/carinah/social-perception
   venues:
-    - { name: "ACM Conference on Fairness, Accountability, and Transparency (FAccT)", year: 2025 }
-    - { name: "World Bank — Measuring Development", year: 2024 }
+    - { name: "ACM Conference on Fairness, Accountability, and Transparency (FAccT)", year: 2025, video: "https://www.youtube.com/watch?v=JQ8r68ofWns" }
+    - { name: "World Bank — Measuring Development", year: 2024, video: "https://www.youtube.com/watch?v=Zj_Hf2DzdlU" }
     - { name: "Thurgau Experimental Economics Meeting", year: 2024 }
     - { name: "Monash–Warwick–Zürich Text-As-Data Workshop", year: 2024 }
     - { name: "ETH Zürich Behavioral Studies Colloquium", year: 2024 }
@@ -47,6 +47,6 @@
 - title: How Voting Rules Impact Legitimacy
   slides_embed: https://slides.com/carinah/voting_rules
   venues:
-    - { name: "Back to the Future Conference, ETH Zürich", year: 2025 }
+    - { name: "Back to the Future Conference, ETH Zürich", year: 2025, video: "https://youtu.be/qyb7Cwp3Cro" }
     - { name: "IFIP EGOV", year: 2024 }
     - { name: "Workshop on Experimental Sociology, London School of Economics", year: 2021 }

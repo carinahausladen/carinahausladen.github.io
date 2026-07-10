@@ -2,7 +2,6 @@
 layout: page
 title: Talks
 permalink: /talks/
-wide: true
 ---
 
 {% for t in site.data.talks %}

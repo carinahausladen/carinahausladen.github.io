@@ -116,10 +116,10 @@ nav.tabs a.active { color: var(--accent); font-weight: 600; }
 .theme-btn:hover { color: var(--ink); border-color: var(--faint); }
 
 /* ---------- bio ---------- */
-.bio { display: flex; gap: 30px; padding: 52px 0 12px; align-items: flex-start; }
-.bio__aside { flex: none; display: flex; flex-direction: column; gap: 14px; align-items: flex-start; }
+.bio { display: flex; gap: 30px; padding: 52px 0 12px; align-items: stretch; }
+.bio__aside { flex: 0 0 248px; display: flex; flex-direction: column; gap: 14px; align-items: stretch; }
 .bio__photo {
-  flex: none; width: 164px; height: 164px; border-radius: 16px; overflow: hidden;
+  flex: 1 1 auto; width: 100%; min-height: 200px; border-radius: 16px; overflow: hidden;
   box-shadow: 0 1px 0 var(--border-strong), 0 12px 30px -14px rgba(20, 24, 35, 0.45);
   background: var(--raised);
 }
@@ -310,6 +310,16 @@ section.block { padding: 30px 0; }
 .join-item { padding: 22px 0; border-top: 1px solid var(--border); }
 .join-item h3 { font-size: 1.04rem; font-weight: 700; color: var(--ink); margin: 0 0 6px; letter-spacing: -0.1px; }
 .join-item p { margin: 0 0 12px; color: var(--ink-soft); font-size: 0.94rem; max-width: 68ch; }
+.join-deadline {
+  display: inline-flex; align-items: baseline; gap: 6px; flex-wrap: wrap;
+  font-size: 0.82rem; color: var(--ink-soft); margin: 0 0 12px;
+}
+.join-deadline .join-deadline-label {
+  font-weight: 600; color: var(--accent); text-transform: uppercase;
+  letter-spacing: 0.4px; font-size: 0.72rem;
+}
+.join-deadline .join-deadline-soft { color: var(--faint); }
+.join-deadline-note { font-size: 0.8rem; color: var(--faint); font-style: italic; margin: 0 0 4px; max-width: 66ch; }
 .join-links { display: flex; flex-wrap: wrap; gap: 8px; }
 .join-links a {
   font-size: 0.8rem; font-weight: 500; color: var(--accent); white-space: nowrap;
@@ -338,8 +348,9 @@ footer.foot { border-top: 1px solid var(--border); margin-top: 48px; }
 /* ---------- responsive ---------- */
 @media (max-width: 620px) {
   body { font-size: 16px; }
-  .bio { flex-direction: column; gap: 20px; padding-top: 36px; }
-  .bio__photo { width: 116px; height: 116px; }
+  .bio { flex-direction: column; gap: 20px; padding-top: 36px; align-items: flex-start; }
+  .bio__aside { flex: none; width: 200px; }
+  .bio__photo { flex: none; width: 200px; height: 200px; min-height: 0; }
   .pub { gap: 16px; }
   .pub__thumb { width: 128px; }
   .pub__thumb--text { height: 100px; }

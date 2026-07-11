@@ -15,6 +15,8 @@ permalink: /join/
   and a rough project idea before applying.
 </p>
 
+<p class="join-deadline-note">Deadlines below were last checked in July 2026 — please confirm exact dates on the linked pages, as calls shift year to year.</p>
+
 <div class="join-item">
   <h3>PhD students (own funding)</h3>
   <p>Bring your own scholarship or fellowship and get in touch with a short project idea that connects to my research. I can advise on funding routes and the formal steps for starting a doctorate at Konstanz.</p>
@@ -27,6 +29,7 @@ permalink: /join/
 <div class="join-item">
   <h3>Postdocs applying for fellowships</h3>
   <p>I am happy to host and co-develop applications for postdoctoral fellowships in computational social science. Get in touch well ahead of the deadline so we can shape the proposal together.</p>
+  <p class="join-deadline"><span class="join-deadline-label">Next deadlines</span> MSCA Postdoctoral Fellowship — 9 Sept 2026 · Zukunftskolleg Postdoctoral Fellowship — next call expected ~Apr 2027</p>
   <div class="join-links">
     <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener">Marie Skłodowska-Curie Postdoctoral Fellowship ↗</a>
     <a href="https://www.uni-konstanz.de/zukunftskolleg/fellowships/postdoctoral-fellowship/" target="_blank" rel="noopener">Zukunftskolleg Postdoctoral Fellowship ↗</a>
@@ -36,6 +39,7 @@ permalink: /join/
 <div class="join-item">
   <h3>Final-year PhDs &amp; early postdocs from Africa, Asia, or Latin America</h3>
   <p>The ZUKOnnect Fellowship supports a research stay at Konstanz while you keep your position at home, with a digital affiliation extending the collaboration across the year.</p>
+  <p class="join-deadline"><span class="join-deadline-label">Next deadline</span> Call expected ~Dec 2026 <span class="join-deadline-soft">(applications typically close mid-February)</span></p>
   <div class="join-links">
     <a href="https://www.uni-konstanz.de/zukunftskolleg/fellowships/zukonnect-fellowship/" target="_blank" rel="noopener">ZUKOnnect Fellowship ↗</a>
   </div>
@@ -44,6 +48,7 @@ permalink: /join/
 <div class="join-item">
   <h3>Short-term visiting researchers (external / mobility funding)</h3>
   <p>Already funded by DAAD, your home institution, or a foundation? The Zukunftskolleg hosts visiting fellows and shorter research visits — a good way to spend a few weeks or months collaborating here.</p>
+  <p class="join-deadline"><span class="join-deadline-label">Next deadlines</span> Visiting Fellowship (host nomination) — 1 Oct 2026 for winter, 1 Mar 2027 for summer · Research Visit — annual, ~July for the following year</p>
   <div class="join-links">
     <a href="https://www.uni-konstanz.de/zukunftskolleg/fellowships/visiting-fellowships/" target="_blank" rel="noopener">Visiting Fellowships ↗</a>
     <a href="https://www.uni-konstanz.de/zukunftskolleg/support-measures/research-visit/" target="_blank" rel="noopener">Research Visit ↗</a>

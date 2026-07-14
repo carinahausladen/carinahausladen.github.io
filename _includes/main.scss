@@ -124,11 +124,53 @@ nav.tabs a.active { color: var(--accent); font-weight: 600; }
   background: var(--raised);
 }
 .bio__photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.bio__photo-caption {
+  margin: -6px 0 0; font-family: var(--mono); font-size: 0.7rem;
+  letter-spacing: 0.02em; color: var(--faint);
+}
 .bio__body { flex: 1 1 auto; min-width: 0; }
 h1.name {
   font-weight: 700; color: var(--ink);
   font-size: 2.05rem; line-height: 1.08; margin: 2px 0 5px; letter-spacing: -0.7px;
   text-wrap: balance;
+}
+/* ---------- homepage intro choreography ---------- */
+/* beat 0: the "hi, i'm" greeting slides in first */
+.bio__greeting {
+  display: block; font-family: var(--mono);
+  font-size: 0.82rem; letter-spacing: 0.04em; color: var(--muted);
+  margin: 0 0 4px;
+}
+
+/* beat 1: the name un-redacts — an accent bar wipes away to surface each word */
+h1.name--redact .redact {
+  position: relative; display: inline-block; color: transparent;
+  animation: redactText .65s ease forwards; animation-delay: var(--redact-delay, 0s);
+}
+h1.name--redact .redact::after {
+  content: ""; position: absolute; inset: 0.06em -0.1em;
+  background: var(--accent); transform-origin: right center; border-radius: 3px;
+  animation: redactBar .45s cubic-bezier(.65, 0, .35, 1) forwards;
+  animation-delay: var(--redact-delay, 0s);
+}
+@keyframes redactBar  { from { transform: scaleX(1); } to { transform: scaleX(0); } }
+@keyframes redactText { 0%, 40% { color: transparent; } to { color: inherit; } }
+
+/* beat 2+: greeting, then everything else, rises in — staggered by --rise-delay */
+.intro-rise {
+  opacity: 0;
+  animation: introRise .5s cubic-bezier(.22, .61, .36, 1) forwards;
+  animation-delay: var(--rise-delay, 0s);
+}
+@keyframes introRise {
+  from { opacity: 0; transform: translateY(9px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  h1.name--redact .redact { color: inherit; animation: none; }
+  h1.name--redact .redact::after { display: none; }
+  .intro-rise { opacity: 1; transform: none; animation: none; }
 }
 .role { font-size: 0.96rem; color: var(--muted); margin: 0 0 14px; }
 .role strong { color: var(--ink-soft); font-weight: 600; }

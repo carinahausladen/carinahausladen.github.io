@@ -1,9 +1,10 @@
 <!-- begin bio -->
-<div class="bio">
-  <div class="bio__aside">
+<div class="bio bio--intro">
+  <div class="bio__aside intro-rise" style="--rise-delay:.85s">
     <div class="bio__photo">
       <img src="{{ '/images/foto.jpg' | relative_url }}" alt="Carina I. Hausladen">
     </div>
+    <p class="bio__photo-caption">Photo: Polit-Forum Bern 2025</p>
     <div class="social">
       <a class="s-email" href="mailto:carina.hausladen@uni-konstanz.de" aria-label="Email" title="Email">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
@@ -20,14 +21,15 @@
     </div>
   </div>
   <div class="bio__body">
-    <h1 class="name">Carina I. Hausladen</h1>
-    <p class="role">Assistant Professor of <strong>Computational Social Science</strong> · University of Konstanz</p>
-    <p class="bio__text">
+    <span class="bio__greeting intro-rise" style="--rise-delay:.1s">hi, i'm</span>
+    <h1 class="name name--redact"><span class="redact" style="--redact-delay:.36s">Carina</span> <span class="redact" style="--redact-delay:.46s">I.</span> <span class="redact" style="--redact-delay:.56s">Hausladen</span></h1>
+    <p class="role intro-rise" style="--rise-delay:1.0s">Assistant Professor of <strong>Computational Social Science</strong> · University of Konstanz</p>
+    <p class="bio__text intro-rise" style="--rise-delay:1.1s">
       My work sits at the intersection of computational social science and economics. I study how
       people and algorithms make collective decisions. Previously a postdoc at ETH Zürich
       (with Dirk Helbing) and at Caltech (with Colin Camerer).
     </p>
-    <p class="recruit">If you'd like to work with me, <a href="{{ '/join/' | relative_url }}">here's how to join →</a></p>
+    <p class="recruit intro-rise" style="--rise-delay:1.18s">If you'd like to work with me, <a href="{{ '/join/' | relative_url }}">here's how to join →</a></p>
   </div>
 </div>
 <!-- end bio -->

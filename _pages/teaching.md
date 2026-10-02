@@ -9,6 +9,59 @@ permalink: /teaching/
 {% capture link_icon %}<svg height="18" width="18" viewBox="0 0 16 16" fill="currentColor"><path d="M7.775 3.275a.75.75 0 0 0 1.06 1.06l1.25-1.25a2 2 0 1 1 2.83 2.83l-2.5 2.5a2 2 0 0 1-2.83 0 .75.75 0 0 0-1.06 1.06 3.5 3.5 0 0 0 4.95 0l2.5-2.5a3.5 3.5 0 0 0-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 0 1 0-2.83l2.5-2.5a2 2 0 0 1 2.83 0 .75.75 0 0 0 1.06-1.06 3.5 3.5 0 0 0-4.95 0l-2.5 2.5a3.5 3.5 0 0 0 4.95 4.95l1.25-1.25a.75.75 0 0 0-1.06-1.06l-1.25 1.25a2 2 0 0 1-2.83 0z"/></svg>{% endcapture %}
 
 <div class="teaching-section">
+<h3>University of Konstanz · Winter Semester 2026/27</h3>
+<div class="course-grid">
+
+  <div class="course-card">
+    <div class="course-card__meta">
+      {{ book_icon }}<span class="course-card__label">Interdisciplinary Seminar</span>
+    </div>
+    <h4>AI Ethics</h4>
+    <p>Pairs six philosophical lenses (metaethics, preference and welfare, virtue, fairness, agency, long-termism) with the technical artefacts that implicitly answer them. Student groups analyse alignment discourse across research, companies, government, and media, and co-author one paper. Co-taught with Tobias Henschen (Philosophy).</p>
+    <div class="course-card__tags">
+      <span class="course-card__tag">AI alignment</span>
+      <span class="course-card__tag">moral philosophy</span>
+      <span class="course-card__tag">discourse analysis</span>
+      <span class="course-card__tag">co-authored paper</span>
+    </div>
+    <div class="course-card__links">
+      <a href="https://carinahausladen.github.io/konstanz-ethics-2027/" target="_blank" rel="noopener" class="course-card__link">
+        {{ link_icon }} Course site
+      </a>
+      <a href="https://github.com/carinahausladen/konstanz-ethics-2027" target="_blank" rel="noopener" class="course-card__link">
+        {{ github_icon }} GitHub
+      </a>
+    </div>
+  </div>
+
+  <div class="course-card">
+    <div class="course-card__meta">
+      {{ book_icon }}<span class="course-card__label">Proseminar II · POL-32450</span>
+    </div>
+    <h4>AI and Public Governance</h4>
+    <p>Examines how a few private labs shape not only AI development but also what we know about it, who benefits, and how it is governed: AI and work, labs as producers of knowledge, regulatory capture and market structure, governing uncertain risk, and democracy. Students develop a research exposé extending a published paper.</p>
+    <div class="course-card__tags">
+      <span class="course-card__tag">AI governance</span>
+      <span class="course-card__tag">power concentration</span>
+      <span class="course-card__tag">political economy</span>
+      <span class="course-card__tag">democracy</span>
+    </div>
+    <div class="course-card__links">
+      <a href="https://carinahausladen.github.io/ai-public-governance/" target="_blank" rel="noopener" class="course-card__link">
+        {{ link_icon }} Course site
+      </a>
+      <a href="https://github.com/carinahausladen/ai-public-governance" target="_blank" rel="noopener" class="course-card__link">
+        {{ github_icon }} GitHub
+      </a>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<hr class="teaching-divider">
+
+<div class="teaching-section">
 <h3>University of Konstanz · Summer Semester 2026</h3>
 <div class="course-grid">
 

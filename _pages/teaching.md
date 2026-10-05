@@ -24,19 +24,14 @@ permalink: /teaching/
       <span class="course-card__tag">discourse analysis</span>
       <span class="course-card__tag">co-authored paper</span>
     </div>
-    <div class="course-card__links">
-      <a href="https://carinahausladen.github.io/konstanz-ethics-2027/" target="_blank" rel="noopener" class="course-card__link">
-        {{ link_icon }} Course site
-      </a>
-      <a href="https://github.com/carinahausladen/konstanz-ethics-2027" target="_blank" rel="noopener" class="course-card__link">
+    <a href="https://github.com/carinahausladen/konstanz-ethics-2027" target="_blank" rel="noopener" class="course-card__link">
         {{ github_icon }} GitHub
       </a>
-    </div>
   </div>
 
   <div class="course-card">
     <div class="course-card__meta">
-      {{ book_icon }}<span class="course-card__label">Proseminar II · POL-32450</span>
+      {{ book_icon }}<span class="course-card__label">Proseminar II · 6 ECTS</span>
     </div>
     <h4>AI and Public Governance</h4>
     <p>Examines how a few private labs shape not only AI development but also what we know about it, who benefits, and how it is governed: AI and work, labs as producers of knowledge, regulatory capture and market structure, governing uncertain risk, and democracy. Students develop a research exposé extending a published paper.</p>
@@ -46,14 +41,9 @@ permalink: /teaching/
       <span class="course-card__tag">political economy</span>
       <span class="course-card__tag">democracy</span>
     </div>
-    <div class="course-card__links">
-      <a href="https://carinahausladen.github.io/ai-public-governance/" target="_blank" rel="noopener" class="course-card__link">
-        {{ link_icon }} Course site
-      </a>
-      <a href="https://github.com/carinahausladen/ai-public-governance" target="_blank" rel="noopener" class="course-card__link">
+    <a href="https://github.com/carinahausladen/ai-public-governance" target="_blank" rel="noopener" class="course-card__link">
         {{ github_icon }} GitHub
       </a>
-    </div>
   </div>
 
 </div>
@@ -86,7 +76,7 @@ permalink: /teaching/
     <div class="course-card__meta">
       {{ book_icon }}<span class="course-card__label">Seminar · 7 ECTS</span>
     </div>
-    <h4>Dynamic Social Behavior</h4>
+    <h4>Modeling Behavior</h4>
     <p>Introduces computational methods for modelling social dilemmas and dynamic social behavior, with a focus on learning dynamics, simulation, and behavioral time series analysis.</p>
     <div class="course-card__tags">
       <span class="course-card__tag">game theory</span>
@@ -136,7 +126,7 @@ permalink: /teaching/
 
   <div class="course-card">
     <div class="course-card__meta">
-      {{ book_icon }}<span class="course-card__label">Seminar</span>
+      {{ book_icon }}<span class="course-card__label">Seminar · 3 ECTS</span>
     </div>
     <h4>Digital Society: Ethical, Societal and Economic Challenges</h4>
     <p>Addresses ethical challenges arising from digital technologies including AI, Big Data, machine learning, IoT, and blockchain, from a social science and economics perspective.</p>
